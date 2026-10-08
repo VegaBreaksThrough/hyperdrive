@@ -1,0 +1,2 @@
+Quite simply prana is the life-force, primarily gathered in the navel where it is stored to flow to the rest of the body. In breathing in the true form we are aligned to the Mystery, breathing to and from infinity. The higher developmental levels of ‘spiritual life’ are dependent on being supplied with energy from the navel. 
+The true breath is wherein we recognise our dependence upon the infinite unfathomable Mystery that lives us. We grow beyond ourselves only in this recognition and concomitant surrender.

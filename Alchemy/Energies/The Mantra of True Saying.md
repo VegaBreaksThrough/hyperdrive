@@ -1,0 +1,1 @@
+Speaking truth transforms both the speaker and listener.

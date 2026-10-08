@@ -1,0 +1,1 @@
+Heals all aspects relating to the head.

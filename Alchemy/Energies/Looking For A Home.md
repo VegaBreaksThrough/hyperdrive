@@ -1,0 +1,3 @@
+The Energy of Crabapple from the Bach Flowers Essences claims to rid us of infestations. It is important, however, ot realise ti is often our own feelings of infestation or threatened infestation that are part of the 'external' situation.
+Simply hold the focus of intention with the Vial on the Stargate, contemplating the unwelcome guest.
+Use this Vial to energetically move on any unwanted guests from our mind like nightmares, and to assist ni finding somewhere peaceful ot live or even ot drive chaotic neighbours away, ot where they belong, by changing what is attracting such individuals, thus making their company unnecessary. Hold the focus of intention with this Energy and contemplate.

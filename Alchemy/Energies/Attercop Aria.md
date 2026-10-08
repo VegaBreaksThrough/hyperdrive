@@ -1,0 +1,8 @@
+"[[Sugar Sugar|Sugar]] and Spice and all things nice". This is the spider song of those who appear to be innocent and friendly, yet are beguiling and destructive of 'all who become fascinated'. All facial histrionics and mechanisms of hiding behind a 'social face' are tendencies of the Attercop Aria - the social face on top of the chaotic communication beneath. We must allow the 'face' to drop away. This Energy helps to clear the fixed roles, pressures and social expectations of the conventional world.
+
+---
+Wikipedia:
+
+_**Attercopus**_ is an extinct genus of arachnids, containing one species _**Attercopus fimbriunguis**_, known from flattened cuticle fossils from the Panther Mountain Formation in Upstate New York. It is placed in the extinct order Uraraneida, spider-like animals able to produce silk, but which lacked true spinnerets and retained a segmented abdomen bearing a flagellum-like tail resembling that of a whip scorpion. They are thought to be close to the origins of spiders.
+
+Its name is taken from the English dialect word _attercop_ ("spider"), which came from _Old English: attorcoppa_ ("poison-head"), from _Old English: _ator__ ("poison") and _kopp-_ ("head").In  The Hobbit, Tolkien had Bilbo use _attercop_ to insult attacking spiders, the insult possibly deriving from its meaning in Northern England dialect of "peevish, ill-natured person". Cop or cob had also come to mean spider, as in cobweb.

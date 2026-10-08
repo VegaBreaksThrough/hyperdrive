@@ -1,0 +1,1 @@
+Dissolving our inability to speak the truth! We have suffered lifetimes of not being able to confess the Esoteric Truth which we intuit at the Heart. It is time to release this karma and Stand Firm as the truth NOW! So Be It! 

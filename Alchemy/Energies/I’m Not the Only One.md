@@ -1,0 +1,5 @@
+---
+tags:
+  - Dream
+---
+“People say that I’m a dreamer, but I’m not the only one...” (John Lennon). Being lost in reverie as a dreamer, like a child lost in the ‘Star Wars’ saga, renders us ineffective in serving our living obligations. In our reverie we are inattentive to the demands of life and therefore we are vague and forgetful and incapable of truly creating intimate association. The dreamer does not deal with what is actual, but only with what could or might be, and such a position denies responsibility as a conscious creative being. Recognition of our part as a ‘dreamer within a dream’ is seeing ourselves as acting as this absurd character in life, but really seeing it so that we are unable to make the gesture to enact this absurdity, bringing us to the responsible disposition of present participation in the living process. The emphasis here is on participation and not the non- participation of the dreamer lost in avoidance.

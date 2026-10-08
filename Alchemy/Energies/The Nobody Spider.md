@@ -1,0 +1,1 @@
+This Energy assists us to release feelings and identification with being a 'someone', and also, the fear of being that 'one'. In this release we are free to be of service whole-bodily, as a vessel for the Divine. The Energy helps us to become aware when we are not 'present' or not 'conducting the current', helping to release 'self-possession'. 

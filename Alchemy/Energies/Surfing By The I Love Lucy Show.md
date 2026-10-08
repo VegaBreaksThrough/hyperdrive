@@ -1,0 +1,4 @@
+---
+aliases:
+  - I Love Lucy
+---

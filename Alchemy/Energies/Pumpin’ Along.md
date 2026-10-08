@@ -1,0 +1,1 @@
+This Energy is a blessing for the heart dimension. Holding space for the [[Feeling Dimension]] of being. This Energy moves to release any psychic stress communication and invites the individual to live beyond fear. [[Slow Force Field]] is built in this Energy.

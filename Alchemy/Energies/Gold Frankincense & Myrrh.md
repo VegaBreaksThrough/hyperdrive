@@ -1,0 +1,5 @@
+A gift from the wise men at the nativity, opening the way for the entrance of the Divine into this world. Each of the three items represented hold a sacred symbology.
+
+Gold brings forth the power and strength of the sun, symbolising the purity of Consciousness. Frankincense brings forth the forces of the moon, dispelling and protecting from negativity, holding the space for accelerated spiritual growth. Myrrh brings protection, holding and purification. Anointing, consecrating and manifesting an individual’s potentiality to incarnate as a soul of Truth.
+
+This Energy is a baptismal current to initiate and bless the process – a life to pass through with courage and integrity. These are the tools of empowerment with the intention of giving space, strength, wisdom and protection for the ordeals encountered on our journey of the Heart.

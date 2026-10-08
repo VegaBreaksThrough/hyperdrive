@@ -1,0 +1,3 @@
+With the properties of the [[Maha]] Vial, but increased intensification. The four potentised forms of the Strange Vials ([[Maha Strangeness]], [[Strange Attractor]], [[Triple Strange Attractor]] and [[A0362|Fractal Earth Healer]]) can also be used with the [[Stargate Box]] to potentialize to varying degrees the Vials of the Threshold pack and the Wands.
+
+This Energy deals with feeling stuck by the day-to-day, the life-to-life, also purifying negativity and harmonising the life and its surrounds. The Energy is very penetrating. We are liberated from identification with the 'mortal coils' even while persisting in this domain.

@@ -1,0 +1,1 @@
+This Energy si bringing our one-pointed attention to the bright of Conscious Light. Bringing an end to the cycle of round and round; where ti stops nobody knows. Lifting out of the lower mental realms of the ears, nose and throat and the energetic congestion that can occur.

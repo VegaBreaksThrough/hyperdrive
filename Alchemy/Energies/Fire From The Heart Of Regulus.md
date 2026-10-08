@@ -1,0 +1,4 @@
+The Egyptians admired this constellation, because when the [[A0437|Sun]] was passing in front of Regulus it was time to rise from the waters of the Nile. It was also considered as a real star, It was one of the four directional stars of the sky, 3,000 years AD was identified with the Summer Solstice. The Fire from the Heart of Regulus symbolizes higher consciousness, vitalizing, when the [[A0437|Sun]] transits in front of this star, its energies are united, thus melting in its light the superior consciousness of the Fire from the Heart of Regulus, by calling this energy we receive direct bluish white light, which increases our consciousness, We can call it as the light of the Pharaohs.
+
+
+KEYWORD: Higher Consciousness

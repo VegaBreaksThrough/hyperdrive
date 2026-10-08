@@ -1,0 +1,6 @@
+---
+tags:
+  - Alice
+---
+The _usual_ person does not live in _divine communion_, wherein they would be purified and transformed by _happiness_, at last bringing them into the _light_ of _divine destiny_. Apart from _divine communion_, we are merely suffering a _karmic destiny_ defined exactly by the karmic vehicle we are inexorably bound to. It is felt by the individual living the _karmic destiny_ that he or she is somehow ‘inside’ the vehicle, but truly we are simply mysteriously in association with the vehicle, suffering an enforced concentration on its inevitable patterns. Thus, the individual is suffering their _[[Just desserts]]_. If we could _see_ a display of the entire form, _gross_ and _subtle_, depicted as light and shade, chaos and order, we would _see_ something akin to a three dimensional Picasso painting, where much of the distortion is actual decaying structure and/or the precursor to decay.
+‘Colour Me Clear’ suggests how the vehicle should appear if we were living in the purifying, transforming force of _divine communion_, which can be likened to a special crayon that colours with clarity, layer after layer of unenlightened structure. At last making the form and its world totally transparent. This transparency is brilliantly free of doubt. [[Alice]] doesn’t live here anymore.

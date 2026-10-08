@@ -1,0 +1,1 @@
+The Red-Back spider energy appeared when witnessing the unconscious disposition where one would remain hidden and shy and yet intensely afraid, but under provocation, its poison was deadly. Hence Red-Back Spider (one of Australia's top ten deadliest spiders.) 

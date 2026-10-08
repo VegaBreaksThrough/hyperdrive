@@ -1,0 +1,1 @@
+This Alchymeic Intention of this Vial is focused upon the energy flow through the meridians between our teeth and the rest of our form. The prayer is for an open flow of energy.

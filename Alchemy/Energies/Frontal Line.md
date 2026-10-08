@@ -1,0 +1,3 @@
+The front of the *gross-vital* (face forward). This *frontal line* is enlivened by the circle of *conductivity*, as the chakras are all lit up. Alternatively, the *life-force* spews out the *frontal line*, manifesting as all the aberrations of the *usual* personality.
+
+The front of the gross-vital (face forward). This frontal line is enlivened by the circle of conductivity, as the [[The Nine Angelic Realms|chakras]] are all lit up. Alternatively, the life-force spews out the frontal line, manifesting as all the aberrations of the usual personality. 

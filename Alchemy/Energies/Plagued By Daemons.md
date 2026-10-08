@@ -1,0 +1,5 @@
+A wonderful relief for the unending frustration of being surrounded by endless blocks to being functionally effective. fI you are responsible for many children, the perfect Energy for you. If you are plagued by incompetent help, the perfect Energy for you. It is also the perfect Energy for the daemons that plague us. Anything that unbalances us, over-intrusiveness from any influence (e.g. geo-radiation). Bringing conscious purification to that which would draw in these levels of distraction is a necessary discipline.
+
+---
+
+A wonderful relief for the unending frustration of being surrounded by endless blocks to being functionally effective. This _vial_ is perfect for the _daemons_ that plague us, that being anything that imbalances us and/or over-intrusiveness from any influence; e.g. being responsible for 'wild' children, being plagued by incompetent help and geo radiation.

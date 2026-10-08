@@ -1,0 +1,3 @@
+1. is a set that encompasses all Creation through the commands that go from number 12 to 28 of [[ƒ00]]: Practice of the Universidad De La Alqvimia. The order in which beings, Volumetric Beings, objects, places, or spaces are incorporated into the Set corresponds to the same order in which a Volumetric Being, as the center of the Universe, is inﬂuenced by them.
+
+2. is a set made up of some being, Volumetric Being, object, place, space, Kingdom Celestial Body, or Mind’s Eye that occupies the multidimensional volume that goes from the center of Mother Earth to the inﬁnite in all directions, in all dimensions.

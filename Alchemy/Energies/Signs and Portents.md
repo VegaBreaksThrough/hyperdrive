@@ -1,0 +1,3 @@
+_Awakening_ to feeling and seeing the movement of the Divine into the world and being drawn truly to witness this movement in your own life. 
+
+When added to the other vials, Signs and Portents can help people to see what the Energies truly are, the Touch of the Divine. The Vision given upon birthing this Energy: Light Rays of high voltage magnitude radiating from the central core to locate information.

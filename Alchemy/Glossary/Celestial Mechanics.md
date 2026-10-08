@@ -1,0 +1,1 @@
+The synchronous order of the movement of the stars that gives human beings the possibility of overcoming challenges and learning from them.

@@ -1,0 +1,3 @@
+Many occupations have many hazardous elements to them. Solicitors, j ournalis ts and others have the hazard of too much alcohol, too much coffee and too much smoking. Other occupations have indus trial hazards of polluted air and pollute d environment and one of the bi_gg_est oc**cupati**on**a**l h**a**zp**r**d**s** is 's tress '. Further, s ince b us iness thrives on the pos ition of the fascist, everyone within bus iness tends to be s ubje ct to this tyranny of self and other exploitation. This drink ameliorates all these hazards of employment.
+
+![[Pasted image 20251221002740.png]]

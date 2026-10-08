@@ -1,0 +1,73 @@
+name: Deploy HyperDrive to GitHub Pages
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Build Quartz
+        run: |
+          git clone --depth 1 -b v4 https://github.com/jackyzha0/quartz.git quartz-builder
+          cd quartz-builder
+          npm ci
+          
+          # Replace configs if present
+          [ -f ../quartz.config.ts ] && cp ../quartz.config.ts quartz.config.ts
+          [ -f ../quartz.layout.ts ] && cp ../quartz.layout.ts quartz.layout.ts
+          [ -f ../custom.scss ] && cp ../custom.scss quartz/styles/custom.scss
+          
+          # Copy notes into content/
+          rm -rf content/*
+          rsync -av --exclude 'quartz-builder' --exclude '.git' --exclude '.github' --exclude 'quartz.config.ts' --exclude 'quartz.layout.ts' --exclude 'custom.scss' ../ content/
+          
+          # Ensure index.md exists
+          if [ ! -f content/index.md ] && [ -f content/Welcome.md ]; then
+            cp content/Welcome.md content/index.md
+          fi
+          
+          # Build Quartz
+          npx quartz build --serve false
+          
+          mv public ../public
+          cd ..
+          rm -rf quartz-builder
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: public
+
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    needs: build
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

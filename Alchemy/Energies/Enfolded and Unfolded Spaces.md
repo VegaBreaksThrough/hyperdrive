@@ -1,0 +1,2 @@
+These are aspects of the cosmos that are implicated, not expressed. Some things are explicit, and some things are implicit. Some are expanded spaces, while others are enclosed spaces. For example, the lower coil is explicit: it refers to the extended space or the unfolded body, while the upper coil is implicit, referring to the unextended space or mind, or it is wrapped. Women represent the lower coil, and men the upper coil.
+

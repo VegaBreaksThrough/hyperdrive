@@ -1,0 +1,4 @@
+In the True form, the female is yielded to Consciousness or Divine light, in perfect submission ‘as' the whole body. Where this is not the case, and understandably so in these times, the female in her defense presents an unreceptive and impenetrable structure. 
+The energy of Snow Virgin is Alchymeically Intended to break the spell’ lifting women beyond this situation by working to restore their power through perfect vulnerability and thus enabling a renewed response to them from men and the world.
+
+When men use the Snow Virgin Disc their particular unconscious relationship to women may be revealed and the need to support women in their awakening to consciousness may become more apparent.

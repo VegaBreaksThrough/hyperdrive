@@ -1,0 +1,3 @@
+This Energy is about death and the emergence of new life. The earth's rotation brings sunrise and sunset, birth and death. Therefore this Energy is about transforming our relationship to our living and our dying. The beginning of each day is a challenge to meet with the pristine freshness of Divine Humour. The end of each day is a challenge to release all that has transpired into the Mystery. Just so.
+
+This Energy assists us to relax into this Mysterious process of birth and death, freely flowing through these apparent events like water.

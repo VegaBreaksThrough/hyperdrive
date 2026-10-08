@@ -1,0 +1,1 @@
+True confidence is letting go of self-consciousness, allowing Divine radiance to shine through.

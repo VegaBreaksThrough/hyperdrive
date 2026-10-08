@@ -1,0 +1,5 @@
+---
+aliases: []
+---
+Truth is invariable
+

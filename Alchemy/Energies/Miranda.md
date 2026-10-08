@@ -1,0 +1,1 @@
+This intense, highly stimulating Energy brings images at a sacred 'spiritual' level. Used with other appropriate vials, it stimulates greater intensities or energy of the particular quality required.

@@ -1,0 +1,3 @@
+Most conditions ni this world suffer some degree of 'crumpling' due to gravity (the facts of life are often a matter of gravity to the mortally serious individual). Severe crumpling can become chronic. This Energy
+creates a 'roundness space' that helps ot counter the crumpling effect of gravity. It extends an invitation ot be conscious, since consciousness is round and is the space we apparently live and breathe in. The space of the
+vision of 'ordinary' life si consciousness and si round, hence Rounding Out.

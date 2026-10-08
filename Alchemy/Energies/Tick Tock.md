@@ -1,0 +1,1 @@
+The symbol of the ticking clock, time relentlessly moving on, can be overwhelming. Without our connection to Truth and the understanding of our ultimate transcendence of the mortality of this place, we may be left feeling helpless, deserted or that everything is finished. Move beyond such entrapments by remembering the eternal prior condition of Happiness itself.

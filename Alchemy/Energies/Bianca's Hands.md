@@ -1,0 +1,1 @@
+As the story goes Bianca had the most beautiful hands in the world. But, tinged with more than a little malice. Unlike Bianca the underlying resentments of the _Heart_ begin to show in the hands, which are an extension of the _Heart._ This _drink_ therefore restores a rosy glow to the _Heart_ and beauty to the hands.

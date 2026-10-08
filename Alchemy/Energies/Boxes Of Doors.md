@@ -1,0 +1,5 @@
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0ws3hjguqL1gqusDfUMlLw?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+The symbol of a closed door looms large in 'conventional consciousness' as places of concealment. This _water_ holds the essence of the primitive childhood stage (being in a room at night wondering about other rooms in the house). This _water_ helps to penetrate whatever has been hidden behind these other doors. The song, _Green_ _Door_ was the inspiration for this _water._ It is the symbol of 'life' and its many hidden aspects. It is all about recovering personal power.
+
+This _water_ also helps deal with hidden spaces and emotions in 'boxes behind doors' within the _self_ These are hidden from oneself in avoidance of their disclosure, usually because they offend our self-image.

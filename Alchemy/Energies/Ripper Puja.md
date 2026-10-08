@@ -1,0 +1,3 @@
+This Energy is Alchymeically Intended to release 'enclosed' energetic negativity (dark levels) by slicing vertically and horizontally, effectively releasing and exposing all hidden places.
+
+This Energy has been psychically seen to be like a bucket of holy water that can change the quality of a great river, allowing us to move higher up the evolutionary scale as easily as a spirit passing through a solid wall. It has also been energetically felt as a calming influence.

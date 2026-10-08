@@ -1,0 +1,3 @@
+This Vial is felt as na intense calming and cooling Energy, Alchymeically intended to quickly transform many negative qualities both 'internal' and 'external'. Much potency is available with Logan's Run when Alchymeically transforming hot chaotic conditions to cool and calm, by reminding us of the equanimity of our alignment to truth.
+
+This Energy also helps us to begin to suffer our existence (i.e. feeling everything exactly as it is with nowhere to retreat to, no apparent inner subjective space). We are transformed utterly in the [[Crucible]] of this suffering. A pink rose showers its petals on us from above, a blessing of the Heart.

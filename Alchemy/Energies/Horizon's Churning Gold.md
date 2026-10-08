@@ -1,0 +1,3 @@
+Viruses and bacteria are thought to be the causes of disease; however, they are merely symptoms. The true cause of diseases lies in an inbuilt propensity or encoding within the living structure, which not only attracts viral and bacterial infections to an individual but also draws chaos into their life, manifesting as dreadful accidents or intended violence, such as murder.
+
+_Horizon’s Churning Gold_ works to dissolve this viral and bacterial encoding, rendering involvement with specific diseases, such as Hepatitis, null and void. This is a gracious gift of relief from karmas, offered in the form of the drink, _Horizon’s Churning Gold_.

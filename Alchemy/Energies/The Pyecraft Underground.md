@@ -1,0 +1,1 @@
+For people who are a bit 'light on'. This Energy is about transforming a poor relationship to the life-force current and feeling abandoned by God.

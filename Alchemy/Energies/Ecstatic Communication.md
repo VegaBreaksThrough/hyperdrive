@@ -1,0 +1,20 @@
+---
+aliases: []
+---
+*Ecstatic communication* is confounding of the *usual* point of view and liberating from bondage to this view.
+
+Ecstatic communication is the transmission of Divine truth and love through words, actions, or presence. It is not merely the exchange of information but a deep, soul-to-soul connection that transcends ordinary communication. Real communication involves being fully present and open to the Divine in every interaction.
+# Ecstatic Communication Spells Us With the Force of Reality
+
+Hermes Trismegistus regarded the Greek language as a pale excuse for real communication and for him Greek belonged to the degenerate phase of humanity, along with the Egyptian language of his time. The contentious point was that these decayed languages lacked the power to ‘spell’ and this indicated that all was lost and only a dark future awaited mankind, since all the languages of his time were mere sentiment. The old Egyptian language had a mantric force, the ‘word’ packed a punch. We live in an era where the occlusion of language is all but complete. We are virtually reduced to ‘grunts’ and ‘squeaks’, since nearly all of our language is meaningless: “Isn’t that fantastic!” 
+
+Just so, in our times we are left with sentiment as a pale excuse for real communication since sentiment or opinion rooted in some emotional condition and reflected through the mind, lacks the power to spell. Ecstatic communication has the power to spell, since it carries with it the full force of the open heart. Such communication has the power to bring about instant changes in us i.e. it ‘spells’ us into the reality of its communication, it is, at last, an irresistible influence. There have been examples throughout spiritual traditions of instant changes, upon hearing ecstatic communication, to an enlightened condition, including the Sixth Patriarch of Chinese Zen, Hui Neng. However, mere sentiment seeks only to announce some level of agreement or disagreement, which is simply ordinary politics. If all that is seen or felt about ecstatic communication is what we can agree or disagree with, then tragically we have not permitted ourselves to feel the ‘spell’ of its force of reality and for some ‘reason’ we are resisting the radical dissolution of all the sentiment that links us to the usual mediocre personality. 
+Ecstatic communication is a ‘wake up’ call; it lies behind and beyond what merely filters through the mind of the usual man or woman. We can only address this tragic error through awakening to the mindless condition in the humour of real existence and leave behind all that only wishes to wrestle with the fools of sentiment.
+
+# Ecstatic Communication is Beyond the Politics of Experience of the Usual Mind
+
+Ecstasy stands prior to bodily involvement; therefore ecstatic communication transcends all levels of bodily experience and all levels of communication of the conventional kind, which is always a political manoeuvre that seeks an advantage for the self in the survival of that one as that one.
+
+Ecstatic writing is not literature. Literature is produced by the ‘hackers in cyberspace’, and what they produce seeks to hack into our minds in order to control us for their advantage, if only to sell us their pop-up story. Therefore, “Kill the hackers in cyber space!”, which is to say, transcend such influence, such usability, and feel the pain of all such communication. Ecstatic communication is confounding of the usual point of view and liberating from bondage to this view. This view rests in a cosmology of mechanical morbidity wherein we are dead, a mere cipher, a thought bubble blown away by an asterisk.
+
+Ecstatic communication gives rise to reactions in us since it penetrates all levels of our posturing leaving us exposed and truly vulnerable, which is not favoured by the self. When we are able to allow this penetration, this vulnerability, we see that ecstatic communication is the real food of our real life, which is perfect submission into our loving, which is the Very Reality which is the Truth of us and where we go, the hackers cannot follow in their immunity.

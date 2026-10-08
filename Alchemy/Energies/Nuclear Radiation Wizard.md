@@ -1,0 +1,1 @@
+All of the technology that produces radiation, whether it be nuclear or electro-magnetic springs out of the technological mind, which is ‘doubt of love’. Therefore wherever we see nuclear we can equate that with ‘doubt of love’. This Energy is about turning people to love, not merely ‘doubt of love’.

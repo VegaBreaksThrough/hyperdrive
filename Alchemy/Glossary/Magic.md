@@ -1,0 +1,3 @@
+Any action, verb, thought, intention, feeling, emotion or omission; that affects, that binds or compromises with some _wircho,_ some _spider,_ some _disembodied,_ _something_ _in the darkness,_ or some _portal;_ that transgresses ethically, directly or indirectly, up to the complete and perfect number of degrees of separation, some being, _Volumetric Being_, object, place, space, Kingdom, Celestial Body or Mind’s Eye that belongs to the _Rainbow_ _Warrior_ _Set_; that does some _Volumetric Being_ that belongs to _Rainbow_ _Warrior_ _Set._
+
+See [[A0242]]

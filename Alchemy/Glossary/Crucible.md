@@ -1,0 +1,1 @@
+A crucible is a container where substances are melted or transformed by heat. In Alchymic terms, the crucible represents the process of spiritual transformation, where the soul undergoes intense purification and refinement to achieve enlightenment.

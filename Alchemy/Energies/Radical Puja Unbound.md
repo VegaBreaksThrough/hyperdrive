@@ -1,0 +1,1 @@
+Puja is a spiritual term and its essence is clearing out the ‘build up’ of negative conditions  –  elimination. Radical Puja Unbound is the most powerful of all Puja Wands – all limitations on its force of clearing removed. Stand aside and let the clearing take place.

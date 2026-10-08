@@ -1,0 +1,1 @@
+An Energy inspired by the changeable Energy of the surface of the planet Jupiter; where anything that si unwilling to move on or resists being broken up is dissolved. Anything tight or rigid is shaken loose!

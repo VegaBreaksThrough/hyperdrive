@@ -1,0 +1,1 @@
+There is a shock associated with coming out of the age of dark. This Energy is exploding the grip of the consequence of all that we have identified with through the age of darkness. 

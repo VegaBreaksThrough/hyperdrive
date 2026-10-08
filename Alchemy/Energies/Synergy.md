@@ -1,0 +1,1 @@
+Real community is about diminishing the demands of mere survival upon each person in the community so that we may have more time to consider what is truly Great. 

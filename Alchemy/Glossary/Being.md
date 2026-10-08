@@ -1,0 +1,1 @@
+All dynamic and cyclic manifestation of the primordial Unity in the animal, mineral, and vegetable Kingdoms, expressed in multiple forms, and levels of Consciousness; it is the eternal vibration that underlies all existence, the Cosmic Intelligence that organizes, and animates the Universe.

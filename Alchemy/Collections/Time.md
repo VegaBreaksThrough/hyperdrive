@@ -1,0 +1,1 @@
+comprehends the space of time from the beginning to the end of Creation, therefore, it encompasses al cultures, civilizations and their experiences, developed on planet Earth in this temporal space. 

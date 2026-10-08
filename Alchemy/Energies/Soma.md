@@ -1,0 +1,1 @@
+The nerve nectar of Infinity. It is the chemistry that is initiated in Enlightenment. Higher initiates enjoy the Soma chemistry flowing through the gross-vital form. Soma initiates and brings to light a new way of living and breathing, beyond the ordinary coping mechanisms of existence.

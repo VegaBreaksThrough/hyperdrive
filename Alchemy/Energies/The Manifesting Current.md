@@ -1,0 +1,3 @@
+This realm that we coincide with is a realm of manifest desire. Being born here into mortal form is governed by manifest desire. In other words, we will be given exactly what it is we are meditating upon. This may not always be what we want in our cognisance, but it is where our fixation rests. The Manifesting Current is about Happiness. Happiness is the form of reality. Happiness is the freedom from the implication of all that is arising. Allowing our attention to rest at the seat of consciousness, living and breathing to Infinity from the Heart. Remain as Happiness in this world, until this world vanishes out of sight.
+
+![[Pasted image 20251221002751.png]]

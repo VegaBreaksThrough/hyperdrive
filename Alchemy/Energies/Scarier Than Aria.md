@@ -1,0 +1,1 @@
+Malaria is becoming a massive scourge in many parts of the world, with some strains proving fatal. _Scarier Than Aria_ has been designed to graciously combat the vast disarray caused by this epidemic.

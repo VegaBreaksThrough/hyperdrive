@@ -1,0 +1,1 @@
+As “kisses sweeter than wine can be soured by abuse and neglect, so too can the honey sweetness of loving intimacy. The Alchymeic intention of this Disc is to restore us to 'whole body sweetness", by transforming the dispositions that ‘sour the honey. 

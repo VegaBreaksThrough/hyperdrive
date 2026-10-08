@@ -1,0 +1,1 @@
+The 'mushroom cloud', the fairy mushroom ring, the magic mushroom and so on. The Energy of this Vial is alchymeically intended to lift us beyond the multitude of fungoid possibilities.

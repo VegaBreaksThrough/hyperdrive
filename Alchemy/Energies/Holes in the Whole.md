@@ -1,0 +1,1 @@
+The world is [[HyperDrive/For the curious mind/Emptiness|empty]] and only our egoic desiring fills it with apparent possibility. When we transcend desire we see immediately that the world is empty and Only God stands out.

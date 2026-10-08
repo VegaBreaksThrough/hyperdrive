@@ -1,0 +1,1 @@
+"...could've said it got in my way." Many times dealing with long hair, frustration mounts to the point of having it all cut off. This drink spares the hair from the insensitive highly angular scissors, making it glow with vitality, strength and sensuous beauty.

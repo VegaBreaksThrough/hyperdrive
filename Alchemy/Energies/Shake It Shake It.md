@@ -1,0 +1,3 @@
+Milk is not good to drink, it's good for calves, but not for grown people, it's not even good for babies, but it is good for calves. 
+
+Drinking milk is a digestive nightmare and a psychological entrapment in one of those Freudian things where we are still attached to the breast of the Statue of Liberty. Shake It Shake It anyway you make it, transforms the indigestible milk into a 'slime-free' fresh substance that we can imbibe if we have to, free of digestive disturbance, only, "don't eat more than a gallon of dairy ice cream a day Marlon." 

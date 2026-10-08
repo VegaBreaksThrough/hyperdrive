@@ -1,0 +1,1 @@
+Of to sleep little one, the 'Spirit Teacher' awaits you. All is rounded out. An aid for blessed sleep, especially for children and for the ragged adults that await their drift off.

@@ -1,0 +1,3 @@
+The Alchymeic energy known as Hearts Aflame has been created to allow the passion and fire of our desiring to manifest. This Hermetic current is to ignite and inspire change, to awaken the Heart to remembrance and to allow the feeling level of existence to be known and lived, thus lifting all to a new level of consciousness. There is an urgency to create Hearts of Space throughout the world at a critical time in human history. Our Heart's desire is that they spread like wildfire. May there yet be time to turn this crisis about...
+
+![[Pasted image 20251221002841.png]]

@@ -1,0 +1,2 @@
+Like a flower growing in the desert suggests the return of life to barren soil, this Energy brings the touch
+of the Living Divine upon the points of contraction and resistance found in those not living a life of Divine Communion. Allowing the quenching satisfaction of Divine liquid to flood the gateways. The Divine is welcome into the hearts of mankind. So be it!

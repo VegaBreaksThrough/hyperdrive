@@ -1,0 +1,1 @@
+As the saying goes, beauty is only ‘skin deep’. However, beauty is truly the radiance of the heart. 

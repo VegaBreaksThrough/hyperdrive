@@ -1,0 +1,1 @@
+It’s obvious. To consciously love God and therefore to demonstrate this as our own movement as a living being. 

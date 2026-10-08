@@ -1,0 +1,1 @@
+Where people are defining the world in terms of the structure of their own *mind*, either as female or male and the distortions thereof, including extreme aberrations. Devotion to *minded* descriptions of the world, with a female or male slant.

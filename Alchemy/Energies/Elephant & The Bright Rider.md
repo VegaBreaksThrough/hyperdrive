@@ -1,0 +1,1 @@
+It indicates the development of vital strength and an adaptation to the frontal brain.

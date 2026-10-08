@@ -1,0 +1,3 @@
+The Star of Bethlehem is psychically seen to hold a cosmic coded message; a Divine formulation for the evolution and incarnation of Divine Light. This star is a ‘message in a bottle’ that comes as an encoded current. The first scission* of creation holds the pieces. It is seen as pieces of a jigsaw puzzle that need to be put together. In receiving this current, we are receiving the ‘message in a bottle’.
+
+*The first scission is Soulfire. The point of creation where the Divine light creating this Cosmos is seen as a current, that begins to multiply, one becoming two, igniting the Genesis of Creation, igniting the Fire of Transformation.

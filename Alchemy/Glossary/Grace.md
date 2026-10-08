@@ -1,0 +1,1 @@
+Grace suggests that spiritual striving is not real. Spiritual advancement is granted effortlessly and freely by the Divine as grace. (See the Scribble: [[A0019|Take Heed Submission to Grace is the Only Way]])

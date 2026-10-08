@@ -1,0 +1,1 @@
+There is only one law the Divine Law! This Energy aligned everything with the Divine Law, or the [[law of sacrifice]]. Ultimately, everything must be yielded everything must be aligned to that Truth. So be it!

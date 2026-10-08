@@ -1,0 +1,3 @@
+Named after the famous Mighty Atom who as a child was weak and asthmatic. The Mighty Atom trained himself until at age 30 he could pull buses with his hair and pull aeroplanes by projecting ki energy.
+
+This water is for anyone who is weak at the Hara centre (the navel) or those who have a sense of having no centre of gravity. It is also good for convalescents by helping them to grow stronger. Athletes may also benefit greatly from this water due to its strengthening properties and by clearing the flow of energy, allowing for greater conductivity.

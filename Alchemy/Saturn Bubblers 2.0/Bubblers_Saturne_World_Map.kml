@@ -1,0 +1,1469 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Inventaire Mondial des Bubblers Saturne (A0463)</name>
+    <description>Cartographie complète des 67 artéfacts physiques alchimiques Bubbler Saturno installés sur le globe terrestre.</description>
+    
+    <!-- Styles -->
+    <Style id="styleGrandPays">
+      <IconStyle>
+        <scale>1.4</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/purple-stars.png</href>
+        </Icon>
+        <hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffea00ff</color>
+        <scale>0.9</scale>
+      </LabelStyle>
+    </Style>
+    
+    <Style id="styleGrand">
+      <IconStyle>
+        <scale>1.3</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/orange-stars.png</href>
+        </Icon>
+        <hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff00aaff</color>
+        <scale>0.85</scale>
+      </LabelStyle>
+    </Style>
+    
+    <Style id="stylePetit">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/blu-circle.png</href>
+        </Icon>
+        <hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffaa00</color>
+        <scale>0.8</scale>
+      </LabelStyle>
+    </Style>
+
+    <Folder>
+      <name>Bubbler Saturno Grande País (2 artéfacts)</name>
+      <Placemark>
+        <name>BSGP001 — Diego Bodart</name>
+        <styleUrl>#styleGrandPays</styleUrl>
+        <description><![CDATA[
+          <div style="font-family: Arial, sans-serif; font-size: 13px; line-height: 1.5; color: #222; max-width: 380px;">
+            <h2 style="margin: 0 0 6px 0; color: #1a73e8; font-size: 16px; border-bottom: 2px solid #e0e0e0; padding-bottom: 4px;">BSGP001 — Diego Bodart</h2>
+            <p style="margin: 4px 0 10px 0; font-style: italic; color: #666;">Artéfact : Bubbler Saturno Grand Pays (Arrangement A0463)</p>
+            <table style="width: 100%; border-collapse: collapse; font-size: 13px; background: #fafafa; border: 1px solid #e8e8e8; border-radius: 4px;">
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Propriétaire :</td><td style="padding:4px 8px; font-weight:bold; color:#111;">Diego Bodart</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Énergie P :</td><td style="padding:4px 8px; color:#9c27b0; font-weight:bold;">P0634</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Localisation :</td><td style="padding:4px 8px;">Bella Vista, Ciudad de Panamá, Panamá</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Date d'installation :</td><td style="padding:4px 8px;">2026</td></tr>
+              
+            </table>
+            <p style="margin-top:10px;"><a href="https://drive.google.com/open?id=1yyu4Ulj22rrgVdIeQHTsmHRQnzGGukdZ" target="_blank" style="color:#1a73e8; font-weight:bold; text-decoration:none;">📄 Consulter la Fiche de Configuration PDF sur Google Drive</a></p>
+          </div>
+        ]]></description>
+        <Point>
+          <coordinates>-79.525,8.9833,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BSGP002 — Carolina Barrios</name>
+        <styleUrl>#styleGrandPays</styleUrl>
+        <description><![CDATA[
+          <div style="font-family: Arial, sans-serif; font-size: 13px; line-height: 1.5; color: #222; max-width: 380px;">
+            <h2 style="margin: 0 0 6px 0; color: #1a73e8; font-size: 16px; border-bottom: 2px solid #e0e0e0; padding-bottom: 4px;">BSGP002 — Carolina Barrios</h2>
+            <p style="margin: 4px 0 10px 0; font-style: italic; color: #666;">Artéfact : Bubbler Saturno Grand Pays (Arrangement A0463)</p>
+            <table style="width: 100%; border-collapse: collapse; font-size: 13px; background: #fafafa; border: 1px solid #e8e8e8; border-radius: 4px;">
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Propriétaire :</td><td style="padding:4px 8px; font-weight:bold; color:#111;">Carolina Barrios</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Énergie P :</td><td style="padding:4px 8px; color:#9c27b0; font-weight:bold;">P0530</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Localisation :</td><td style="padding:4px 8px;">Poti'y, Encarnación, Paraguay</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Date d'installation :</td><td style="padding:4px 8px;">2026</td></tr>
+              
+            </table>
+            <p style="margin-top:10px;"><a href="https://drive.google.com/open?id=1jiGy-lJXdNzmBYbSLvUeETlAsv6jS80-" target="_blank" style="color:#1a73e8; font-weight:bold; text-decoration:none;">📄 Consulter la Fiche de Configuration PDF sur Google Drive</a></p>
+          </div>
+        ]]></description>
+        <Point>
+          <coordinates>-55.855,-27.32,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+
+    <Folder>
+      <name>Bubbler Saturno Grande (8 artéfacts)</name>
+      <Placemark>
+        <name>BSG001 — Arturo Banchs</name>
+        <styleUrl>#styleGrand</styleUrl>
+        <description><![CDATA[
+          <div style="font-family: Arial, sans-serif; font-size: 13px; line-height: 1.5; color: #222; max-width: 380px;">
+            <h2 style="margin: 0 0 6px 0; color: #1a73e8; font-size: 16px; border-bottom: 2px solid #e0e0e0; padding-bottom: 4px;">BSG001 — Arturo Banchs</h2>
+            <p style="margin: 4px 0 10px 0; font-style: italic; color: #666;">Artéfact : Bubbler Saturno Grand (Arrangement A0463)</p>
+            <table style="width: 100%; border-collapse: collapse; font-size: 13px; background: #fafafa; border: 1px solid #e8e8e8; border-radius: 4px;">
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Propriétaire :</td><td style="padding:4px 8px; font-weight:bold; color:#111;">Arturo Banchs</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Énergie P :</td><td style="padding:4px 8px; color:#9c27b0; font-weight:bold;">P0003</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Localisation :</td><td style="padding:4px 8px;">Salón De Saturno UA, Caracas, Venezuela</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Date d'installation :</td><td style="padding:4px 8px;">20/03/2024</td></tr>
+              
+            </table>
+            <p style="margin-top:10px;"><a href="https://drive.google.com/open?id=1_5eOyy2bNHkd6DnRKCqf5GHqVg7eb3xQ" target="_blank" style="color:#1a73e8; font-weight:bold; text-decoration:none;">📄 Consulter la Fiche de Configuration PDF sur Google Drive</a></p>
+          </div>
+        ]]></description>
+        <Point>
+          <coordinates>-66.86,10.485,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BSG002 — Arturo Banchs</name>
+        <styleUrl>#styleGrand</styleUrl>
+        <description><![CDATA[
+          <div style="font-family: Arial, sans-serif; font-size: 13px; line-height: 1.5; color: #222; max-width: 380px;">
+            <h2 style="margin: 0 0 6px 0; color: #1a73e8; font-size: 16px; border-bottom: 2px solid #e0e0e0; padding-bottom: 4px;">BSG002 — Arturo Banchs</h2>
+            <p style="margin: 4px 0 10px 0; font-style: italic; color: #666;">Artéfact : Bubbler Saturno Grand (Arrangement A0463)</p>
+            <table style="width: 100%; border-collapse: collapse; font-size: 13px; background: #fafafa; border: 1px solid #e8e8e8; border-radius: 4px;">
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Propriétaire :</td><td style="padding:4px 8px; font-weight:bold; color:#111;">Arturo Banchs</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Énergie P :</td><td style="padding:4px 8px; color:#9c27b0; font-weight:bold;">P0003</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Localisation :</td><td style="padding:4px 8px;">Atenor UA, Caracas, Venezuela</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Date d'installation :</td><td style="padding:4px 8px;">27/03/2024</td></tr>
+              
+            </table>
+            <p style="margin-top:10px;"><a href="https://drive.google.com/open?id=10N7yI6e1nJNdi0sAvIYAlFb1ei-Yds-9" target="_blank" style="color:#1a73e8; font-weight:bold; text-decoration:none;">📄 Consulter la Fiche de Configuration PDF sur Google Drive</a></p>
+          </div>
+        ]]></description>
+        <Point>
+          <coordinates>-66.8585,10.4865,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BSG003 — Ana Cisneros</name>
+        <styleUrl>#styleGrand</styleUrl>
+        <description><![CDATA[
+          <div style="font-family: Arial, sans-serif; font-size: 13px; line-height: 1.5; color: #222; max-width: 380px;">
+            <h2 style="margin: 0 0 6px 0; color: #1a73e8; font-size: 16px; border-bottom: 2px solid #e0e0e0; padding-bottom: 4px;">BSG003 — Ana Cisneros</h2>
+            <p style="margin: 4px 0 10px 0; font-style: italic; color: #666;">Artéfact : Bubbler Saturno Grand (Arrangement A0463)</p>
+            <table style="width: 100%; border-collapse: collapse; font-size: 13px; background: #fafafa; border: 1px solid #e8e8e8; border-radius: 4px;">
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Propriétaire :</td><td style="padding:4px 8px; font-weight:bold; color:#111;">Ana Cisneros</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Énergie P :</td><td style="padding:4px 8px; color:#9c27b0; font-weight:bold;">P0007</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Localisation :</td><td style="padding:4px 8px;">Chulavista, Caracas, Venezuela</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Date d'installation :</td><td style="padding:4px 8px;">08/11/2024</td></tr>
+              
+            </table>
+            <p style="margin-top:10px;"><a href="https://drive.google.com/open?id=1ToClGdfW68OO336IXcJkVp_Vu0L8fpX6" target="_blank" style="color:#1a73e8; font-weight:bold; text-decoration:none;">📄 Consulter la Fiche de Configuration PDF sur Google Drive</a></p>
+          </div>
+        ]]></description>
+        <Point>
+          <coordinates>-66.8528,10.4697,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BSG004 — Beatriz Banchs</name>
+        <styleUrl>#styleGrand</styleUrl>
+        <description><![CDATA[
+          <div style="font-family: Arial, sans-serif; font-size: 13px; line-height: 1.5; color: #222; max-width: 380px;">
+            <h2 style="margin: 0 0 6px 0; color: #1a73e8; font-size: 16px; border-bottom: 2px solid #e0e0e0; padding-bottom: 4px;">BSG004 — Beatriz Banchs</h2>
+            <p style="margin: 4px 0 10px 0; font-style: italic; color: #666;">Artéfact : Bubbler Saturno Grand (Arrangement A0463)</p>
+            <table style="width: 100%; border-collapse: collapse; font-size: 13px; background: #fafafa; border: 1px solid #e8e8e8; border-radius: 4px;">
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Propriétaire :</td><td style="padding:4px 8px; font-weight:bold; color:#111;">Beatriz Banchs</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Énergie P :</td><td style="padding:4px 8px; color:#9c27b0; font-weight:bold;">P0049</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Localisation :</td><td style="padding:4px 8px;">La Cañada, California, USA</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Date d'installation :</td><td style="padding:4px 8px;">11/12/2024</td></tr>
+              
+            </table>
+            <p style="margin-top:10px;"><a href="https://drive.google.com/open?id=12we9kBNhWoxm8TEKC5Rit1D5NZB1RYXf" target="_blank" style="color:#1a73e8; font-weight:bold; text-decoration:none;">📄 Consulter la Fiche de Configuration PDF sur Google Drive</a></p>
+          </div>
+        ]]></description>
+        <Point>
+          <coordinates>-118.2001,34.2069,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BSG005 — Lila Gil</name>
+        <styleUrl>#styleGrand</styleUrl>
+        <description><![CDATA[
+          <div style="font-family: Arial, sans-serif; font-size: 13px; line-height: 1.5; color: #222; max-width: 380px;">
+            <h2 style="margin: 0 0 6px 0; color: #1a73e8; font-size: 16px; border-bottom: 2px solid #e0e0e0; padding-bottom: 4px;">BSG005 — Lila Gil</h2>
+            <p style="margin: 4px 0 10px 0; font-style: italic; color: #666;">Artéfact : Bubbler Saturno Grand (Arrangement A0463)</p>
+            <table style="width: 100%; border-collapse: collapse; font-size: 13px; background: #fafafa; border: 1px solid #e8e8e8; border-radius: 4px;">
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Propriétaire :</td><td style="padding:4px 8px; font-weight:bold; color:#111;">Lila Gil</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Énergie P :</td><td style="padding:4px 8px; color:#9c27b0; font-weight:bold;">P0020</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Localisation :</td><td style="padding:4px 8px;">Los Palos Grandes, Caracas, Venezuela</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Date d'installation :</td><td style="padding:4px 8px;">05/06/2025</td></tr>
+              
+            </table>
+            <p style="margin-top:10px;"><a href="https://drive.google.com/open?id=1m6yo2bJ3zr-HeKHd5PvvTTq7ophOcKDM" target="_blank" style="color:#1a73e8; font-weight:bold; text-decoration:none;">📄 Consulter la Fiche de Configuration PDF sur Google Drive</a></p>
+          </div>
+        ]]></description>
+        <Point>
+          <coordinates>-66.8483,10.4967,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BSG006 — Arturo Banchs</name>
+        <styleUrl>#styleGrand</styleUrl>
+        <description><![CDATA[
+          <div style="font-family: Arial, sans-serif; font-size: 13px; line-height: 1.5; color: #222; max-width: 380px;">
+            <h2 style="margin: 0 0 6px 0; color: #1a73e8; font-size: 16px; border-bottom: 2px solid #e0e0e0; padding-bottom: 4px;">BSG006 — Arturo Banchs</h2>
+            <p style="margin: 4px 0 10px 0; font-style: italic; color: #666;">Artéfact : Bubbler Saturno Grand (Arrangement A0463)</p>
+            <table style="width: 100%; border-collapse: collapse; font-size: 13px; background: #fafafa; border: 1px solid #e8e8e8; border-radius: 4px;">
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Propriétaire :</td><td style="padding:4px 8px; font-weight:bold; color:#111;">Arturo Banchs</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Énergie P :</td><td style="padding:4px 8px; color:#9c27b0; font-weight:bold;">P0003</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Localisation :</td><td style="padding:4px 8px;">Los Palos Grandes, Caracas, Venezuela</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Date d'installation :</td><td style="padding:4px 8px;">18/11/2025</td></tr>
+              
+            </table>
+            <p style="margin-top:10px;"><a href="https://drive.google.com/open?id=1eA4eQp-Q1EufI3sP_vl_ZUltpxvk-w5f" target="_blank" style="color:#1a73e8; font-weight:bold; text-decoration:none;">📄 Consulter la Fiche de Configuration PDF sur Google Drive</a></p>
+          </div>
+        ]]></description>
+        <Point>
+          <coordinates>-66.8463,10.4987,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BSG007 — Zen Way O'Heart</name>
+        <styleUrl>#styleGrand</styleUrl>
+        <description><![CDATA[
+          <div style="font-family: Arial, sans-serif; font-size: 13px; line-height: 1.5; color: #222; max-width: 380px;">
+            <h2 style="margin: 0 0 6px 0; color: #1a73e8; font-size: 16px; border-bottom: 2px solid #e0e0e0; padding-bottom: 4px;">BSG007 — Zen Way O'Heart</h2>
+            <p style="margin: 4px 0 10px 0; font-style: italic; color: #666;">Artéfact : Bubbler Saturno Grand (Arrangement A0463)</p>
+            <table style="width: 100%; border-collapse: collapse; font-size: 13px; background: #fafafa; border: 1px solid #e8e8e8; border-radius: 4px;">
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Propriétaire :</td><td style="padding:4px 8px; font-weight:bold; color:#111;">Zen Way O'Heart</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Énergie P :</td><td style="padding:4px 8px; color:#9c27b0; font-weight:bold;">—</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Localisation :</td><td style="padding:4px 8px;">Tyalgum, New South Wales, Australia</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Date d'installation :</td><td style="padding:4px 8px;">20/02/2026</td></tr>
+              
+            </table>
+            <p style="margin-top:10px;"><a href="https://drive.google.com/open?id=1LVUptqOBagSo4FoLYz4deWGccltDsqcX" target="_blank" style="color:#1a73e8; font-weight:bold; text-decoration:none;">📄 Consulter la Fiche de Configuration PDF sur Google Drive</a></p>
+          </div>
+        ]]></description>
+        <Point>
+          <coordinates>153.2081,-28.3686,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BSG008 — Elías Elia</name>
+        <styleUrl>#styleGrand</styleUrl>
+        <description><![CDATA[
+          <div style="font-family: Arial, sans-serif; font-size: 13px; line-height: 1.5; color: #222; max-width: 380px;">
+            <h2 style="margin: 0 0 6px 0; color: #1a73e8; font-size: 16px; border-bottom: 2px solid #e0e0e0; padding-bottom: 4px;">BSG008 — Elías Elia</h2>
+            <p style="margin: 4px 0 10px 0; font-style: italic; color: #666;">Artéfact : Bubbler Saturno Grand (Arrangement A0463)</p>
+            <table style="width: 100%; border-collapse: collapse; font-size: 13px; background: #fafafa; border: 1px solid #e8e8e8; border-radius: 4px;">
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Propriétaire :</td><td style="padding:4px 8px; font-weight:bold; color:#111;">Elías Elia</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Énergie P :</td><td style="padding:4px 8px; color:#9c27b0; font-weight:bold;">P0041</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Localisation :</td><td style="padding:4px 8px;">Altamira, Caracas, Venezuela</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Date d'installation :</td><td style="padding:4px 8px;">2026</td></tr>
+              
+            </table>
+            <p style="margin-top:10px;"><a href="https://drive.google.com/open?id=1-thcrBFLOuNS4iQYPiN9PT_JiIC5Pf7A" target="_blank" style="color:#1a73e8; font-weight:bold; text-decoration:none;">📄 Consulter la Fiche de Configuration PDF sur Google Drive</a></p>
+          </div>
+        ]]></description>
+        <Point>
+          <coordinates>-66.8519,10.4986,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+
+    <Folder>
+      <name>Bubbler Saturno Pequeño (57 artéfacts)</name>
+      <Placemark>
+        <name>BS000 — Arturo Banchs</name>
+        <styleUrl>#stylePetit</styleUrl>
+        <description><![CDATA[
+          <div style="font-family: Arial, sans-serif; font-size: 13px; line-height: 1.5; color: #222; max-width: 380px;">
+            <h2 style="margin: 0 0 6px 0; color: #1a73e8; font-size: 16px; border-bottom: 2px solid #e0e0e0; padding-bottom: 4px;">BS000 — Arturo Banchs</h2>
+            <p style="margin: 4px 0 10px 0; font-style: italic; color: #666;">Artéfact : Bubbler Saturno Petit (Arrangement A0463)</p>
+            <table style="width: 100%; border-collapse: collapse; font-size: 13px; background: #fafafa; border: 1px solid #e8e8e8; border-radius: 4px;">
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Propriétaire :</td><td style="padding:4px 8px; font-weight:bold; color:#111;">Arturo Banchs</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Énergie P :</td><td style="padding:4px 8px; color:#9c27b0; font-weight:bold;">P0020</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Localisation :</td><td style="padding:4px 8px;">Viajero prototipo, Caracas, Venezuela</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Date d'installation :</td><td style="padding:4px 8px;">29/03/2023</td></tr>
+              
+            </table>
+            <p style="margin-top:10px;"><a href="https://drive.google.com/open?id=1l5VEax5UKtuv98gHy6S94D-QZUkPPvhF" target="_blank" style="color:#1a73e8; font-weight:bold; text-decoration:none;">📄 Consulter la Fiche de Configuration PDF sur Google Drive</a></p>
+          </div>
+        ]]></description>
+        <Point>
+          <coordinates>-66.858,10.488,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BS001 — Lila Gil</name>
+        <styleUrl>#stylePetit</styleUrl>
+        <description><![CDATA[
+          <div style="font-family: Arial, sans-serif; font-size: 13px; line-height: 1.5; color: #222; max-width: 380px;">
+            <h2 style="margin: 0 0 6px 0; color: #1a73e8; font-size: 16px; border-bottom: 2px solid #e0e0e0; padding-bottom: 4px;">BS001 — Lila Gil</h2>
+            <p style="margin: 4px 0 10px 0; font-style: italic; color: #666;">Artéfact : Bubbler Saturno Petit (Arrangement A0463)</p>
+            <table style="width: 100%; border-collapse: collapse; font-size: 13px; background: #fafafa; border: 1px solid #e8e8e8; border-radius: 4px;">
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Propriétaire :</td><td style="padding:4px 8px; font-weight:bold; color:#111;">Lila Gil</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Énergie P :</td><td style="padding:4px 8px; color:#9c27b0; font-weight:bold;">P0020</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Localisation :</td><td style="padding:4px 8px;">Los Palos Grandes, Caracas, Venezuela</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Date d'installation :</td><td style="padding:4px 8px;">20/08/2023</td></tr>
+              <tr><td style="padding:4px 8px; font-weight:bold; color:#555;">Certificat :</td><td style="padding:4px 8px;">EC002632</td></tr>
+            </table>
+            <p style="margin-top:10px;"><a href="https://drive.google.com/open?id=1bX6p7IMjzLuWgkL51CFYgZiS6aAgJUEl" target="_blank" style="color:#1a73e8; font-weight:bold; text-decoration:none;">📄 Consulter la Fiche de Configuration PDF sur Google Drive</a></p>
+          </div>
+        ]]></description>
+        <Point>
+          <coordinates>-66.85,10.495,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BS002 — Ana Cristina Massa</name>
+        <styleUrl>#stylePetit</styleUrl>
+        <description><![CDATA[
+          <div style="font-family: Arial, sans-serif; font-size: 13px; line-height: 1.5; color: #222; max-width: 380px;">
+            <h2 style="margin: 0 0 6px 0; color: #1a73e8; font-size: 16px; border-bottom: 2px solid #e0e0e0; padding-bottom: 4px;">BS002 — Ana Cristina Massa</h2>
+            <p style="margin: 4px 0 10px 0; font-style: italic; color: #666;">Artéfact : Bubbler Saturno Petit (Arrangement A0463)</p>
+            <table style="width: 100%; border-collapse: collapse; font-size: 13px; background: #fafafa; border: 1px solid #e8e8e8; border-radius: 4px;">
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Propriétaire :</td><td style="padding:4px 8px; font-weight:bold; color:#111;">Ana Cristina Massa</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Énergie P :</td><td style="padding:4px 8px; color:#9c27b0; font-weight:bold;">P0024</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Localisation :</td><td style="padding:4px 8px;">Las Mercedes, Caracas, Venezuela</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Date d'installation :</td><td style="padding:4px 8px;">15/10/2023</td></tr>
+              <tr><td style="padding:4px 8px; font-weight:bold; color:#555;">Certificat :</td><td style="padding:4px 8px;">EC002103</td></tr>
+            </table>
+            <p style="margin-top:10px;"><a href="https://drive.google.com/open?id=1bYEMPabk0EIfQwlZyUKSWAuQjSoNhhBp" target="_blank" style="color:#1a73e8; font-weight:bold; text-decoration:none;">📄 Consulter la Fiche de Configuration PDF sur Google Drive</a></p>
+          </div>
+        ]]></description>
+        <Point>
+          <coordinates>-66.8622,10.4786,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BS003 — Ana Cisneros</name>
+        <styleUrl>#stylePetit</styleUrl>
+        <description><![CDATA[
+          <div style="font-family: Arial, sans-serif; font-size: 13px; line-height: 1.5; color: #222; max-width: 380px;">
+            <h2 style="margin: 0 0 6px 0; color: #1a73e8; font-size: 16px; border-bottom: 2px solid #e0e0e0; padding-bottom: 4px;">BS003 — Ana Cisneros</h2>
+            <p style="margin: 4px 0 10px 0; font-style: italic; color: #666;">Artéfact : Bubbler Saturno Petit (Arrangement A0463)</p>
+            <table style="width: 100%; border-collapse: collapse; font-size: 13px; background: #fafafa; border: 1px solid #e8e8e8; border-radius: 4px;">
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Propriétaire :</td><td style="padding:4px 8px; font-weight:bold; color:#111;">Ana Cisneros</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Énergie P :</td><td style="padding:4px 8px; color:#9c27b0; font-weight:bold;">P0007</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Localisation :</td><td style="padding:4px 8px;">Chulavista, Caracas, Venezuela</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Date d'installation :</td><td style="padding:4px 8px;">15/10/2023</td></tr>
+              <tr><td style="padding:4px 8px; font-weight:bold; color:#555;">Certificat :</td><td style="padding:4px 8px;">EC023714</td></tr>
+            </table>
+            <p style="margin-top:10px;"><a href="https://drive.google.com/open?id=1bYaCFDRl7IjrTt4tyIQTPv0BY0dvTpZC" target="_blank" style="color:#1a73e8; font-weight:bold; text-decoration:none;">📄 Consulter la Fiche de Configuration PDF sur Google Drive</a></p>
+          </div>
+        ]]></description>
+        <Point>
+          <coordinates>-66.8508,10.4677,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BS004 — Zen Way O'Heart</name>
+        <styleUrl>#stylePetit</styleUrl>
+        <description><![CDATA[
+          <div style="font-family: Arial, sans-serif; font-size: 13px; line-height: 1.5; color: #222; max-width: 380px;">
+            <h2 style="margin: 0 0 6px 0; color: #1a73e8; font-size: 16px; border-bottom: 2px solid #e0e0e0; padding-bottom: 4px;">BS004 — Zen Way O'Heart</h2>
+            <p style="margin: 4px 0 10px 0; font-style: italic; color: #666;">Artéfact : Bubbler Saturno Petit (Arrangement A0463)</p>
+            <table style="width: 100%; border-collapse: collapse; font-size: 13px; background: #fafafa; border: 1px solid #e8e8e8; border-radius: 4px;">
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Propriétaire :</td><td style="padding:4px 8px; font-weight:bold; color:#111;">Zen Way O'Heart</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Énergie P :</td><td style="padding:4px 8px; color:#9c27b0; font-weight:bold;">P0026</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Localisation :</td><td style="padding:4px 8px;">Tyalgum, New South Wales, Australia</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Date d'installation :</td><td style="padding:4px 8px;">19/08/2023</td></tr>
+              <tr><td style="padding:4px 8px; font-weight:bold; color:#555;">Certificat :</td><td style="padding:4px 8px;">EC019686</td></tr>
+            </table>
+            <p style="margin-top:10px;"><a href="https://drive.google.com/open?id=1bZ-CFtAmld9WmJJUBdhUriPuS6bEDD1H" target="_blank" style="color:#1a73e8; font-weight:bold; text-decoration:none;">📄 Consulter la Fiche de Configuration PDF sur Google Drive</a></p>
+          </div>
+        ]]></description>
+        <Point>
+          <coordinates>153.2051,-28.3656,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BS005 — Anabella Roncayolo</name>
+        <styleUrl>#stylePetit</styleUrl>
+        <description><![CDATA[
+          <div style="font-family: Arial, sans-serif; font-size: 13px; line-height: 1.5; color: #222; max-width: 380px;">
+            <h2 style="margin: 0 0 6px 0; color: #1a73e8; font-size: 16px; border-bottom: 2px solid #e0e0e0; padding-bottom: 4px;">BS005 — Anabella Roncayolo</h2>
+            <p style="margin: 4px 0 10px 0; font-style: italic; color: #666;">Artéfact : Bubbler Saturno Petit (Arrangement A0463)</p>
+            <table style="width: 100%; border-collapse: collapse; font-size: 13px; background: #fafafa; border: 1px solid #e8e8e8; border-radius: 4px;">
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Propriétaire :</td><td style="padding:4px 8px; font-weight:bold; color:#111;">Anabella Roncayolo</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Énergie P :</td><td style="padding:4px 8px; color:#9c27b0; font-weight:bold;">P0032</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Localisation :</td><td style="padding:4px 8px;">Los Palos Grandes, Caracas, Venezuela</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Date d'installation :</td><td style="padding:4px 8px;">30/11/2023</td></tr>
+              
+            </table>
+            <p style="margin-top:10px;"><a href="https://drive.google.com/open?id=1b_MU8E1Mmh3-77tM6cdH5imgs1MyCT__" target="_blank" style="color:#1a73e8; font-weight:bold; text-decoration:none;">📄 Consulter la Fiche de Configuration PDF sur Google Drive</a></p>
+          </div>
+        ]]></description>
+        <Point>
+          <coordinates>-66.847,10.4935,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BS006 — Oliver Berrios</name>
+        <styleUrl>#stylePetit</styleUrl>
+        <description><![CDATA[
+          <div style="font-family: Arial, sans-serif; font-size: 13px; line-height: 1.5; color: #222; max-width: 380px;">
+            <h2 style="margin: 0 0 6px 0; color: #1a73e8; font-size: 16px; border-bottom: 2px solid #e0e0e0; padding-bottom: 4px;">BS006 — Oliver Berrios</h2>
+            <p style="margin: 4px 0 10px 0; font-style: italic; color: #666;">Artéfact : Bubbler Saturno Petit (Arrangement A0463)</p>
+            <table style="width: 100%; border-collapse: collapse; font-size: 13px; background: #fafafa; border: 1px solid #e8e8e8; border-radius: 4px;">
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Propriétaire :</td><td style="padding:4px 8px; font-weight:bold; color:#111;">Oliver Berrios</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Énergie P :</td><td style="padding:4px 8px; color:#9c27b0; font-weight:bold;">P0058</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Localisation :</td><td style="padding:4px 8px;">La Yaguara, Caracas, Venezuela</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Date d'installation :</td><td style="padding:4px 8px;">23/12/2023</td></tr>
+              
+            </table>
+            <p style="margin-top:10px;"><a href="https://drive.google.com/open?id=1b_wSBeNxvPNJFZRWWduxkGuIWg_09gGy" target="_blank" style="color:#1a73e8; font-weight:bold; text-decoration:none;">📄 Consulter la Fiche de Configuration PDF sur Google Drive</a></p>
+          </div>
+        ]]></description>
+        <Point>
+          <coordinates>-66.9722,10.475,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BS007 — Patricia Lauria</name>
+        <styleUrl>#stylePetit</styleUrl>
+        <description><![CDATA[
+          <div style="font-family: Arial, sans-serif; font-size: 13px; line-height: 1.5; color: #222; max-width: 380px;">
+            <h2 style="margin: 0 0 6px 0; color: #1a73e8; font-size: 16px; border-bottom: 2px solid #e0e0e0; padding-bottom: 4px;">BS007 — Patricia Lauria</h2>
+            <p style="margin: 4px 0 10px 0; font-style: italic; color: #666;">Artéfact : Bubbler Saturno Petit (Arrangement A0463)</p>
+            <table style="width: 100%; border-collapse: collapse; font-size: 13px; background: #fafafa; border: 1px solid #e8e8e8; border-radius: 4px;">
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Propriétaire :</td><td style="padding:4px 8px; font-weight:bold; color:#111;">Patricia Lauria</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Énergie P :</td><td style="padding:4px 8px; color:#9c27b0; font-weight:bold;">P0023</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Localisation :</td><td style="padding:4px 8px;">Las Mercedes, Caracas, Venezuela</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Date d'installation :</td><td style="padding:4px 8px;">28/12/2023</td></tr>
+              
+            </table>
+            <p style="margin-top:10px;"><a href="https://drive.google.com/open?id=1ba2c3OCwhQpXeg4cVkhIQl5Z-rqfkuYE" target="_blank" style="color:#1a73e8; font-weight:bold; text-decoration:none;">📄 Consulter la Fiche de Configuration PDF sur Google Drive</a></p>
+          </div>
+        ]]></description>
+        <Point>
+          <coordinates>-66.86,10.48,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BS008 — Carlos Borges</name>
+        <styleUrl>#stylePetit</styleUrl>
+        <description><![CDATA[
+          <div style="font-family: Arial, sans-serif; font-size: 13px; line-height: 1.5; color: #222; max-width: 380px;">
+            <h2 style="margin: 0 0 6px 0; color: #1a73e8; font-size: 16px; border-bottom: 2px solid #e0e0e0; padding-bottom: 4px;">BS008 — Carlos Borges</h2>
+            <p style="margin: 4px 0 10px 0; font-style: italic; color: #666;">Artéfact : Bubbler Saturno Petit (Arrangement A0463)</p>
+            <table style="width: 100%; border-collapse: collapse; font-size: 13px; background: #fafafa; border: 1px solid #e8e8e8; border-radius: 4px;">
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Propriétaire :</td><td style="padding:4px 8px; font-weight:bold; color:#111;">Carlos Borges</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Énergie P :</td><td style="padding:4px 8px; color:#9c27b0; font-weight:bold;">P0003</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Localisation :</td><td style="padding:4px 8px;">La Castellana, Caracas, Venezuela</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Date d'installation :</td><td style="padding:4px 8px;">06/02/2024</td></tr>
+              
+            </table>
+            <p style="margin-top:10px;"><a href="https://drive.google.com/open?id=1_I_Ba_Ijgrbo3uPv5FMItyE-P8Cj6AXk" target="_blank" style="color:#1a73e8; font-weight:bold; text-decoration:none;">📄 Consulter la Fiche de Configuration PDF sur Google Drive</a></p>
+          </div>
+        ]]></description>
+        <Point>
+          <coordinates>-66.8556,10.5019,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BS009 — Arturo Banchs</name>
+        <styleUrl>#stylePetit</styleUrl>
+        <description><![CDATA[
+          <div style="font-family: Arial, sans-serif; font-size: 13px; line-height: 1.5; color: #222; max-width: 380px;">
+            <h2 style="margin: 0 0 6px 0; color: #1a73e8; font-size: 16px; border-bottom: 2px solid #e0e0e0; padding-bottom: 4px;">BS009 — Arturo Banchs</h2>
+            <p style="margin: 4px 0 10px 0; font-style: italic; color: #666;">Artéfact : Bubbler Saturno Petit (Arrangement A0463)</p>
+            <table style="width: 100%; border-collapse: collapse; font-size: 13px; background: #fafafa; border: 1px solid #e8e8e8; border-radius: 4px;">
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Propriétaire :</td><td style="padding:4px 8px; font-weight:bold; color:#111;">Arturo Banchs</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Énergie P :</td><td style="padding:4px 8px; color:#9c27b0; font-weight:bold;">P0003</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Localisation :</td><td style="padding:4px 8px;">Bello Campo, Caracas, Venezuela</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Date d'installation :</td><td style="padding:4px 8px;">27/02/2024</td></tr>
+              <tr><td style="padding:4px 8px; font-weight:bold; color:#555;">Certificat :</td><td style="padding:4px 8px;">EC015546</td></tr>
+            </table>
+            <p style="margin-top:10px;"><a href="https://drive.google.com/open?id=1_IcftpH8IreYXwpSQEVLKOZLOLUdrj7T" target="_blank" style="color:#1a73e8; font-weight:bold; text-decoration:none;">📄 Consulter la Fiche de Configuration PDF sur Google Drive</a></p>
+          </div>
+        ]]></description>
+        <Point>
+          <coordinates>-66.8539,10.4917,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BS010 — María Gabriela Lauria</name>
+        <styleUrl>#stylePetit</styleUrl>
+        <description><![CDATA[
+          <div style="font-family: Arial, sans-serif; font-size: 13px; line-height: 1.5; color: #222; max-width: 380px;">
+            <h2 style="margin: 0 0 6px 0; color: #1a73e8; font-size: 16px; border-bottom: 2px solid #e0e0e0; padding-bottom: 4px;">BS010 — María Gabriela Lauria</h2>
+            <p style="margin: 4px 0 10px 0; font-style: italic; color: #666;">Artéfact : Bubbler Saturno Petit (Arrangement A0463)</p>
+            <table style="width: 100%; border-collapse: collapse; font-size: 13px; background: #fafafa; border: 1px solid #e8e8e8; border-radius: 4px;">
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Propriétaire :</td><td style="padding:4px 8px; font-weight:bold; color:#111;">María Gabriela Lauria</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Énergie P :</td><td style="padding:4px 8px; color:#9c27b0; font-weight:bold;">P0003</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Localisation :</td><td style="padding:4px 8px;">Santa Paula, Caracas, Venezuela</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Date d'installation :</td><td style="padding:4px 8px;">21/03/2024</td></tr>
+              
+            </table>
+            <p style="margin-top:10px;"><a href="https://drive.google.com/open?id=1-BmEJDCedcN0Gk5OZkEuICrQbWpsMRrb" target="_blank" style="color:#1a73e8; font-weight:bold; text-decoration:none;">📄 Consulter la Fiche de Configuration PDF sur Google Drive</a></p>
+          </div>
+        ]]></description>
+        <Point>
+          <coordinates>-66.8333,10.4639,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BS011 — Arturo Banchs</name>
+        <styleUrl>#stylePetit</styleUrl>
+        <description><![CDATA[
+          <div style="font-family: Arial, sans-serif; font-size: 13px; line-height: 1.5; color: #222; max-width: 380px;">
+            <h2 style="margin: 0 0 6px 0; color: #1a73e8; font-size: 16px; border-bottom: 2px solid #e0e0e0; padding-bottom: 4px;">BS011 — Arturo Banchs</h2>
+            <p style="margin: 4px 0 10px 0; font-style: italic; color: #666;">Artéfact : Bubbler Saturno Petit (Arrangement A0463)</p>
+            <table style="width: 100%; border-collapse: collapse; font-size: 13px; background: #fafafa; border: 1px solid #e8e8e8; border-radius: 4px;">
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Propriétaire :</td><td style="padding:4px 8px; font-weight:bold; color:#111;">Arturo Banchs</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Énergie P :</td><td style="padding:4px 8px; color:#9c27b0; font-weight:bold;">P0003</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Localisation :</td><td style="padding:4px 8px;">Horno UA, Caracas, Venezuela</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Date d'installation :</td><td style="padding:4px 8px;">20/03/2024</td></tr>
+              
+            </table>
+            <p style="margin-top:10px;"><a href="https://drive.google.com/open?id=1VvUTMbQbLPyxehHpfJW2D5ioVGHyzMaj" target="_blank" style="color:#1a73e8; font-weight:bold; text-decoration:none;">📄 Consulter la Fiche de Configuration PDF sur Google Drive</a></p>
+          </div>
+        ]]></description>
+        <Point>
+          <coordinates>-66.861,10.484,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BS012 — Arturo Banchs</name>
+        <styleUrl>#stylePetit</styleUrl>
+        <description><![CDATA[
+          <div style="font-family: Arial, sans-serif; font-size: 13px; line-height: 1.5; color: #222; max-width: 380px;">
+            <h2 style="margin: 0 0 6px 0; color: #1a73e8; font-size: 16px; border-bottom: 2px solid #e0e0e0; padding-bottom: 4px;">BS012 — Arturo Banchs</h2>
+            <p style="margin: 4px 0 10px 0; font-style: italic; color: #666;">Artéfact : Bubbler Saturno Petit (Arrangement A0463)</p>
+            <table style="width: 100%; border-collapse: collapse; font-size: 13px; background: #fafafa; border: 1px solid #e8e8e8; border-radius: 4px;">
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Propriétaire :</td><td style="padding:4px 8px; font-weight:bold; color:#111;">Arturo Banchs</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Énergie P :</td><td style="padding:4px 8px; color:#9c27b0; font-weight:bold;">—</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Localisation :</td><td style="padding:4px 8px;">Viajero, Caracas, Venezuela</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Date d'installation :</td><td style="padding:4px 8px;">08/07/2024</td></tr>
+              
+            </table>
+            <p style="margin-top:10px;"><a href="https://drive.google.com/open?id=1Vwt5gpB1QibLK5gvr4lTHA0_KGuekq70" target="_blank" style="color:#1a73e8; font-weight:bold; text-decoration:none;">📄 Consulter la Fiche de Configuration PDF sur Google Drive</a></p>
+          </div>
+        ]]></description>
+        <Point>
+          <coordinates>-66.8565,10.4895,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BS013 — Celso Alejandro Lista</name>
+        <styleUrl>#stylePetit</styleUrl>
+        <description><![CDATA[
+          <div style="font-family: Arial, sans-serif; font-size: 13px; line-height: 1.5; color: #222; max-width: 380px;">
+            <h2 style="margin: 0 0 6px 0; color: #1a73e8; font-size: 16px; border-bottom: 2px solid #e0e0e0; padding-bottom: 4px;">BS013 — Celso Alejandro Lista</h2>
+            <p style="margin: 4px 0 10px 0; font-style: italic; color: #666;">Artéfact : Bubbler Saturno Petit (Arrangement A0463)</p>
+            <table style="width: 100%; border-collapse: collapse; font-size: 13px; background: #fafafa; border: 1px solid #e8e8e8; border-radius: 4px;">
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Propriétaire :</td><td style="padding:4px 8px; font-weight:bold; color:#111;">Celso Alejandro Lista</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Énergie P :</td><td style="padding:4px 8px; color:#9c27b0; font-weight:bold;">P0041</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Localisation :</td><td style="padding:4px 8px;">Barinitas, Barinas, Venezuela</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Date d'installation :</td><td style="padding:4px 8px;">20/06/2024</td></tr>
+              
+            </table>
+            <p style="margin-top:10px;"><a href="https://drive.google.com/open?id=1Vx4JuEqFfg__VtMVfOEsQVBxT6X2e5X-" target="_blank" style="color:#1a73e8; font-weight:bold; text-decoration:none;">📄 Consulter la Fiche de Configuration PDF sur Google Drive</a></p>
+          </div>
+        ]]></description>
+        <Point>
+          <coordinates>-70.4117,8.7617,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BS014 — Elias Elia</name>
+        <styleUrl>#stylePetit</styleUrl>
+        <description><![CDATA[
+          <div style="font-family: Arial, sans-serif; font-size: 13px; line-height: 1.5; color: #222; max-width: 380px;">
+            <h2 style="margin: 0 0 6px 0; color: #1a73e8; font-size: 16px; border-bottom: 2px solid #e0e0e0; padding-bottom: 4px;">BS014 — Elias Elia</h2>
+            <p style="margin: 4px 0 10px 0; font-style: italic; color: #666;">Artéfact : Bubbler Saturno Petit (Arrangement A0463)</p>
+            <table style="width: 100%; border-collapse: collapse; font-size: 13px; background: #fafafa; border: 1px solid #e8e8e8; border-radius: 4px;">
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Propriétaire :</td><td style="padding:4px 8px; font-weight:bold; color:#111;">Elias Elia</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Énergie P :</td><td style="padding:4px 8px; color:#9c27b0; font-weight:bold;">—</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Localisation :</td><td style="padding:4px 8px;">Altamira, Caracas, Venezuela</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Date d'installation :</td><td style="padding:4px 8px;">11/07/2024</td></tr>
+              
+            </table>
+            <p style="margin-top:10px;"><a href="https://drive.google.com/open?id=1VxPAqgxCGdi02xehUURi5EBUVr7reWHT" target="_blank" style="color:#1a73e8; font-weight:bold; text-decoration:none;">📄 Consulter la Fiche de Configuration PDF sur Google Drive</a></p>
+          </div>
+        ]]></description>
+        <Point>
+          <coordinates>-66.8535,10.497,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BS015 — José Alberto Martínez</name>
+        <styleUrl>#stylePetit</styleUrl>
+        <description><![CDATA[
+          <div style="font-family: Arial, sans-serif; font-size: 13px; line-height: 1.5; color: #222; max-width: 380px;">
+            <h2 style="margin: 0 0 6px 0; color: #1a73e8; font-size: 16px; border-bottom: 2px solid #e0e0e0; padding-bottom: 4px;">BS015 — José Alberto Martínez</h2>
+            <p style="margin: 4px 0 10px 0; font-style: italic; color: #666;">Artéfact : Bubbler Saturno Petit (Arrangement A0463)</p>
+            <table style="width: 100%; border-collapse: collapse; font-size: 13px; background: #fafafa; border: 1px solid #e8e8e8; border-radius: 4px;">
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Propriétaire :</td><td style="padding:4px 8px; font-weight:bold; color:#111;">José Alberto Martínez</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Énergie P :</td><td style="padding:4px 8px; color:#9c27b0; font-weight:bold;">P0042</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Localisation :</td><td style="padding:4px 8px;">La Urbina, Caracas, Venezuela</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Date d'installation :</td><td style="padding:4px 8px;">18/07/2024</td></tr>
+              
+            </table>
+            <p style="margin-top:10px;"><a href="https://drive.google.com/open?id=1cqYH7clRVr7Ce8sH-aEjn2i99A3cR3jj" target="_blank" style="color:#1a73e8; font-weight:bold; text-decoration:none;">📄 Consulter la Fiche de Configuration PDF sur Google Drive</a></p>
+          </div>
+        ]]></description>
+        <Point>
+          <coordinates>-66.8153,10.4903,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BS016 — Simon Larivière</name>
+        <styleUrl>#stylePetit</styleUrl>
+        <description><![CDATA[
+          <div style="font-family: Arial, sans-serif; font-size: 13px; line-height: 1.5; color: #222; max-width: 380px;">
+            <h2 style="margin: 0 0 6px 0; color: #1a73e8; font-size: 16px; border-bottom: 2px solid #e0e0e0; padding-bottom: 4px;">BS016 — Simon Larivière</h2>
+            <p style="margin: 4px 0 10px 0; font-style: italic; color: #666;">Artéfact : Bubbler Saturno Petit (Arrangement A0463)</p>
+            <table style="width: 100%; border-collapse: collapse; font-size: 13px; background: #fafafa; border: 1px solid #e8e8e8; border-radius: 4px;">
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Propriétaire :</td><td style="padding:4px 8px; font-weight:bold; color:#111;">Simon Larivière</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Énergie P :</td><td style="padding:4px 8px; color:#9c27b0; font-weight:bold;">P0042</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Localisation :</td><td style="padding:4px 8px;">Saint-Hubert, Quebec, Canadá</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Date d'installation :</td><td style="padding:4px 8px;">19/03/2025</td></tr>
+              <tr><td style="padding:4px 8px; font-weight:bold; color:#555;">Certificat :</td><td style="padding:4px 8px;">EC018685</td></tr>
+            </table>
+            <p style="margin-top:10px;"><a href="https://drive.google.com/open?id=1cqYH7clRVr7Ce8sH-aEjn2i99A3cR3jj" target="_blank" style="color:#1a73e8; font-weight:bold; text-decoration:none;">📄 Consulter la Fiche de Configuration PDF sur Google Drive</a></p>
+          </div>
+        ]]></description>
+        <Point>
+          <coordinates>-73.4244,45.4975,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BS017 — Carolina Barrios</name>
+        <styleUrl>#stylePetit</styleUrl>
+        <description><![CDATA[
+          <div style="font-family: Arial, sans-serif; font-size: 13px; line-height: 1.5; color: #222; max-width: 380px;">
+            <h2 style="margin: 0 0 6px 0; color: #1a73e8; font-size: 16px; border-bottom: 2px solid #e0e0e0; padding-bottom: 4px;">BS017 — Carolina Barrios</h2>
+            <p style="margin: 4px 0 10px 0; font-style: italic; color: #666;">Artéfact : Bubbler Saturno Petit (Arrangement A0463)</p>
+            <table style="width: 100%; border-collapse: collapse; font-size: 13px; background: #fafafa; border: 1px solid #e8e8e8; border-radius: 4px;">
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Propriétaire :</td><td style="padding:4px 8px; font-weight:bold; color:#111;">Carolina Barrios</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Énergie P :</td><td style="padding:4px 8px; color:#9c27b0; font-weight:bold;">P0530</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Localisation :</td><td style="padding:4px 8px;">Poti'y, Encarnación, Paraguay</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Date d'installation :</td><td style="padding:4px 8px;">04/01/2025</td></tr>
+              
+            </table>
+            <p style="margin-top:10px;"><a href="https://drive.google.com/open?id=1-lIjHTKfxtam6TiFF7iXXkXMeq6wvUMN" target="_blank" style="color:#1a73e8; font-weight:bold; text-decoration:none;">📄 Consulter la Fiche de Configuration PDF sur Google Drive</a></p>
+          </div>
+        ]]></description>
+        <Point>
+          <coordinates>-55.858,-27.323,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BS018 — Anne Caroline von Bremen</name>
+        <styleUrl>#stylePetit</styleUrl>
+        <description><![CDATA[
+          <div style="font-family: Arial, sans-serif; font-size: 13px; line-height: 1.5; color: #222; max-width: 380px;">
+            <h2 style="margin: 0 0 6px 0; color: #1a73e8; font-size: 16px; border-bottom: 2px solid #e0e0e0; padding-bottom: 4px;">BS018 — Anne Caroline von Bremen</h2>
+            <p style="margin: 4px 0 10px 0; font-style: italic; color: #666;">Artéfact : Bubbler Saturno Petit (Arrangement A0463)</p>
+            <table style="width: 100%; border-collapse: collapse; font-size: 13px; background: #fafafa; border: 1px solid #e8e8e8; border-radius: 4px;">
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Propriétaire :</td><td style="padding:4px 8px; font-weight:bold; color:#111;">Anne Caroline von Bremen</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Énergie P :</td><td style="padding:4px 8px; color:#9c27b0; font-weight:bold;">P0039</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Localisation :</td><td style="padding:4px 8px;">Chapinero, Bogotá, Colombia</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Date d'installation :</td><td style="padding:4px 8px;">26/12/2024</td></tr>
+              
+            </table>
+            <p style="margin-top:10px;"><a href="https://drive.google.com/open?id=1QYb4AN4PSvezWPDYRxrSppNRVzZURxTu" target="_blank" style="color:#1a73e8; font-weight:bold; text-decoration:none;">📄 Consulter la Fiche de Configuration PDF sur Google Drive</a></p>
+          </div>
+        ]]></description>
+        <Point>
+          <coordinates>-74.0628,4.6486,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BS019 — Diego Rodriguez</name>
+        <styleUrl>#stylePetit</styleUrl>
+        <description><![CDATA[
+          <div style="font-family: Arial, sans-serif; font-size: 13px; line-height: 1.5; color: #222; max-width: 380px;">
+            <h2 style="margin: 0 0 6px 0; color: #1a73e8; font-size: 16px; border-bottom: 2px solid #e0e0e0; padding-bottom: 4px;">BS019 — Diego Rodriguez</h2>
+            <p style="margin: 4px 0 10px 0; font-style: italic; color: #666;">Artéfact : Bubbler Saturno Petit (Arrangement A0463)</p>
+            <table style="width: 100%; border-collapse: collapse; font-size: 13px; background: #fafafa; border: 1px solid #e8e8e8; border-radius: 4px;">
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Propriétaire :</td><td style="padding:4px 8px; font-weight:bold; color:#111;">Diego Rodriguez</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Énergie P :</td><td style="padding:4px 8px; color:#9c27b0; font-weight:bold;">P0050</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Localisation :</td><td style="padding:4px 8px;">Montecristo, Caracas, Venezuela</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Date d'installation :</td><td style="padding:4px 8px;">17/01/2025</td></tr>
+              <tr><td style="padding:4px 8px; font-weight:bold; color:#555;">Certificat :</td><td style="padding:4px 8px;">EC017853</td></tr>
+            </table>
+            <p style="margin-top:10px;"><a href="https://drive.google.com/open?id=11amx0bogsJThOWkxPKJt9RU6iMwzQLdh" target="_blank" style="color:#1a73e8; font-weight:bold; text-decoration:none;">📄 Consulter la Fiche de Configuration PDF sur Google Drive</a></p>
+          </div>
+        ]]></description>
+        <Point>
+          <coordinates>-66.8317,10.495,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BS020 — Adrián Aguirre</name>
+        <styleUrl>#stylePetit</styleUrl>
+        <description><![CDATA[
+          <div style="font-family: Arial, sans-serif; font-size: 13px; line-height: 1.5; color: #222; max-width: 380px;">
+            <h2 style="margin: 0 0 6px 0; color: #1a73e8; font-size: 16px; border-bottom: 2px solid #e0e0e0; padding-bottom: 4px;">BS020 — Adrián Aguirre</h2>
+            <p style="margin: 4px 0 10px 0; font-style: italic; color: #666;">Artéfact : Bubbler Saturno Petit (Arrangement A0463)</p>
+            <table style="width: 100%; border-collapse: collapse; font-size: 13px; background: #fafafa; border: 1px solid #e8e8e8; border-radius: 4px;">
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Propriétaire :</td><td style="padding:4px 8px; font-weight:bold; color:#111;">Adrián Aguirre</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Énergie P :</td><td style="padding:4px 8px; color:#9c27b0; font-weight:bold;">P0060</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Localisation :</td><td style="padding:4px 8px;">El Rosal, Caracas, Venezuela</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Date d'installation :</td><td style="padding:4px 8px;">10/04/2025</td></tr>
+              
+            </table>
+            <p style="margin-top:10px;"><a href="https://drive.google.com/open?id=1jfbprADzQVWisekbbi8E-L-gxQ5c8H59" target="_blank" style="color:#1a73e8; font-weight:bold; text-decoration:none;">📄 Consulter la Fiche de Configuration PDF sur Google Drive</a></p>
+          </div>
+        ]]></description>
+        <Point>
+          <coordinates>-66.8672,10.4883,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BS021 — Alfredo Peralta</name>
+        <styleUrl>#stylePetit</styleUrl>
+        <description><![CDATA[
+          <div style="font-family: Arial, sans-serif; font-size: 13px; line-height: 1.5; color: #222; max-width: 380px;">
+            <h2 style="margin: 0 0 6px 0; color: #1a73e8; font-size: 16px; border-bottom: 2px solid #e0e0e0; padding-bottom: 4px;">BS021 — Alfredo Peralta</h2>
+            <p style="margin: 4px 0 10px 0; font-style: italic; color: #666;">Artéfact : Bubbler Saturno Petit (Arrangement A0463)</p>
+            <table style="width: 100%; border-collapse: collapse; font-size: 13px; background: #fafafa; border: 1px solid #e8e8e8; border-radius: 4px;">
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Propriétaire :</td><td style="padding:4px 8px; font-weight:bold; color:#111;">Alfredo Peralta</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Énergie P :</td><td style="padding:4px 8px; color:#9c27b0; font-weight:bold;">P0037</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Localisation :</td><td style="padding:4px 8px;">Macaracuay, Caracas, Venezuela</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Date d'installation :</td><td style="padding:4px 8px;">27/03/2025</td></tr>
+              
+            </table>
+            <p style="margin-top:10px;"><a href="https://drive.google.com/open?id=1a55S5TVX-eoUD8vRNNVA4YttPqsGNMsk" target="_blank" style="color:#1a73e8; font-weight:bold; text-decoration:none;">📄 Consulter la Fiche de Configuration PDF sur Google Drive</a></p>
+          </div>
+        ]]></description>
+        <Point>
+          <coordinates>-66.8167,10.4739,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BS022 — Emily Russo</name>
+        <styleUrl>#stylePetit</styleUrl>
+        <description><![CDATA[
+          <div style="font-family: Arial, sans-serif; font-size: 13px; line-height: 1.5; color: #222; max-width: 380px;">
+            <h2 style="margin: 0 0 6px 0; color: #1a73e8; font-size: 16px; border-bottom: 2px solid #e0e0e0; padding-bottom: 4px;">BS022 — Emily Russo</h2>
+            <p style="margin: 4px 0 10px 0; font-style: italic; color: #666;">Artéfact : Bubbler Saturno Petit (Arrangement A0463)</p>
+            <table style="width: 100%; border-collapse: collapse; font-size: 13px; background: #fafafa; border: 1px solid #e8e8e8; border-radius: 4px;">
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Propriétaire :</td><td style="padding:4px 8px; font-weight:bold; color:#111;">Emily Russo</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Énergie P :</td><td style="padding:4px 8px; color:#9c27b0; font-weight:bold;">P0033</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Localisation :</td><td style="padding:4px 8px;">Calabria, Italia</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Date d'installation :</td><td style="padding:4px 8px;">05/05/2025</td></tr>
+              
+            </table>
+            <p style="margin-top:10px;"><a href="https://drive.google.com/open?id=1kAPzjI1Eqpsl4dxzOwDX6LX9Iz1fafJK" target="_blank" style="color:#1a73e8; font-weight:bold; text-decoration:none;">📄 Consulter la Fiche de Configuration PDF sur Google Drive</a></p>
+          </div>
+        ]]></description>
+        <Point>
+          <coordinates>16.596,38.9098,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BS023 — Alexander Baranya</name>
+        <styleUrl>#stylePetit</styleUrl>
+        <description><![CDATA[
+          <div style="font-family: Arial, sans-serif; font-size: 13px; line-height: 1.5; color: #222; max-width: 380px;">
+            <h2 style="margin: 0 0 6px 0; color: #1a73e8; font-size: 16px; border-bottom: 2px solid #e0e0e0; padding-bottom: 4px;">BS023 — Alexander Baranya</h2>
+            <p style="margin: 4px 0 10px 0; font-style: italic; color: #666;">Artéfact : Bubbler Saturno Petit (Arrangement A0463)</p>
+            <table style="width: 100%; border-collapse: collapse; font-size: 13px; background: #fafafa; border: 1px solid #e8e8e8; border-radius: 4px;">
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Propriétaire :</td><td style="padding:4px 8px; font-weight:bold; color:#111;">Alexander Baranya</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Énergie P :</td><td style="padding:4px 8px; color:#9c27b0; font-weight:bold;">P0208</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Localisation :</td><td style="padding:4px 8px;">Los Alamos, Madrid, España</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Date d'installation :</td><td style="padding:4px 8px;">02/05/2025</td></tr>
+              
+            </table>
+            <p style="margin-top:10px;"><a href="https://drive.google.com/open?id=1l3k3oGMtVNN9SX5M1cqC6GXvTu1KnEAH" target="_blank" style="color:#1a73e8; font-weight:bold; text-decoration:none;">📄 Consulter la Fiche de Configuration PDF sur Google Drive</a></p>
+          </div>
+        ]]></description>
+        <Point>
+          <coordinates>-3.6667,40.5,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BS024 — Zen Way O'Heart</name>
+        <styleUrl>#stylePetit</styleUrl>
+        <description><![CDATA[
+          <div style="font-family: Arial, sans-serif; font-size: 13px; line-height: 1.5; color: #222; max-width: 380px;">
+            <h2 style="margin: 0 0 6px 0; color: #1a73e8; font-size: 16px; border-bottom: 2px solid #e0e0e0; padding-bottom: 4px;">BS024 — Zen Way O'Heart</h2>
+            <p style="margin: 4px 0 10px 0; font-style: italic; color: #666;">Artéfact : Bubbler Saturno Petit (Arrangement A0463)</p>
+            <table style="width: 100%; border-collapse: collapse; font-size: 13px; background: #fafafa; border: 1px solid #e8e8e8; border-radius: 4px;">
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Propriétaire :</td><td style="padding:4px 8px; font-weight:bold; color:#111;">Zen Way O'Heart</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Énergie P :</td><td style="padding:4px 8px; color:#9c27b0; font-weight:bold;">P0026</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Localisation :</td><td style="padding:4px 8px;">Tyalgum, New South Wales, Australia</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Date d'installation :</td><td style="padding:4px 8px;">14/03/2025</td></tr>
+              
+            </table>
+            <p style="margin-top:10px;"><a href="https://drive.google.com/open?id=1lATQilX-bIufQ_FCEDEFVU6oe2iL74jH" target="_blank" style="color:#1a73e8; font-weight:bold; text-decoration:none;">📄 Consulter la Fiche de Configuration PDF sur Google Drive</a></p>
+          </div>
+        ]]></description>
+        <Point>
+          <coordinates>153.2111,-28.3716,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BS025 — Marcelo Rimmaudo</name>
+        <styleUrl>#stylePetit</styleUrl>
+        <description><![CDATA[
+          <div style="font-family: Arial, sans-serif; font-size: 13px; line-height: 1.5; color: #222; max-width: 380px;">
+            <h2 style="margin: 0 0 6px 0; color: #1a73e8; font-size: 16px; border-bottom: 2px solid #e0e0e0; padding-bottom: 4px;">BS025 — Marcelo Rimmaudo</h2>
+            <p style="margin: 4px 0 10px 0; font-style: italic; color: #666;">Artéfact : Bubbler Saturno Petit (Arrangement A0463)</p>
+            <table style="width: 100%; border-collapse: collapse; font-size: 13px; background: #fafafa; border: 1px solid #e8e8e8; border-radius: 4px;">
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Propriétaire :</td><td style="padding:4px 8px; font-weight:bold; color:#111;">Marcelo Rimmaudo</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Énergie P :</td><td style="padding:4px 8px; color:#9c27b0; font-weight:bold;">P0130</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Localisation :</td><td style="padding:4px 8px;">Pampatar, Isla de Margarita, Venezuela</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Date d'installation :</td><td style="padding:4px 8px;">25/07/2025</td></tr>
+              <tr><td style="padding:4px 8px; font-weight:bold; color:#555;">Certificat :</td><td style="padding:4px 8px;">EC028372</td></tr>
+            </table>
+            <p style="margin-top:10px;"><a href="https://drive.google.com/open?id=19QlSVM0lAei-cU5-7nuMWJpROifCachb" target="_blank" style="color:#1a73e8; font-weight:bold; text-decoration:none;">📄 Consulter la Fiche de Configuration PDF sur Google Drive</a></p>
+          </div>
+        ]]></description>
+        <Point>
+          <coordinates>-63.7997,10.9997,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BS026 — Claudia Römer</name>
+        <styleUrl>#stylePetit</styleUrl>
+        <description><![CDATA[
+          <div style="font-family: Arial, sans-serif; font-size: 13px; line-height: 1.5; color: #222; max-width: 380px;">
+            <h2 style="margin: 0 0 6px 0; color: #1a73e8; font-size: 16px; border-bottom: 2px solid #e0e0e0; padding-bottom: 4px;">BS026 — Claudia Römer</h2>
+            <p style="margin: 4px 0 10px 0; font-style: italic; color: #666;">Artéfact : Bubbler Saturno Petit (Arrangement A0463)</p>
+            <table style="width: 100%; border-collapse: collapse; font-size: 13px; background: #fafafa; border: 1px solid #e8e8e8; border-radius: 4px;">
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Propriétaire :</td><td style="padding:4px 8px; font-weight:bold; color:#111;">Claudia Römer</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Énergie P :</td><td style="padding:4px 8px; color:#9c27b0; font-weight:bold;">P0077</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Localisation :</td><td style="padding:4px 8px;">La Lagunita, Caracas, Venezuela</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Date d'installation :</td><td style="padding:4px 8px;">14/08/2025</td></tr>
+              
+            </table>
+            <p style="margin-top:10px;"><a href="https://drive.google.com/open?id=1K_kJ6JQIkT6oARR9tCeWlu73jx05_md1" target="_blank" style="color:#1a73e8; font-weight:bold; text-decoration:none;">📄 Consulter la Fiche de Configuration PDF sur Google Drive</a></p>
+          </div>
+        ]]></description>
+        <Point>
+          <coordinates>-66.7917,10.4375,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BS027 — Isabella Ramírez</name>
+        <styleUrl>#stylePetit</styleUrl>
+        <description><![CDATA[
+          <div style="font-family: Arial, sans-serif; font-size: 13px; line-height: 1.5; color: #222; max-width: 380px;">
+            <h2 style="margin: 0 0 6px 0; color: #1a73e8; font-size: 16px; border-bottom: 2px solid #e0e0e0; padding-bottom: 4px;">BS027 — Isabella Ramírez</h2>
+            <p style="margin: 4px 0 10px 0; font-style: italic; color: #666;">Artéfact : Bubbler Saturno Petit (Arrangement A0463)</p>
+            <table style="width: 100%; border-collapse: collapse; font-size: 13px; background: #fafafa; border: 1px solid #e8e8e8; border-radius: 4px;">
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Propriétaire :</td><td style="padding:4px 8px; font-weight:bold; color:#111;">Isabella Ramírez</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Énergie P :</td><td style="padding:4px 8px; color:#9c27b0; font-weight:bold;">P0636</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Localisation :</td><td style="padding:4px 8px;">Santa Sofía, Caracas, Venezuela</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Date d'installation :</td><td style="padding:4px 8px;">08/09/2025</td></tr>
+              
+            </table>
+            <p style="margin-top:10px;"><a href="https://drive.google.com/open?id=1ZkT4tbLkpNNqOICS_BqxJJwXZ_8aYvbK" target="_blank" style="color:#1a73e8; font-weight:bold; text-decoration:none;">📄 Consulter la Fiche de Configuration PDF sur Google Drive</a></p>
+          </div>
+        ]]></description>
+        <Point>
+          <coordinates>-66.8292,10.4681,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BS028 — Mariel Cabrujas</name>
+        <styleUrl>#stylePetit</styleUrl>
+        <description><![CDATA[
+          <div style="font-family: Arial, sans-serif; font-size: 13px; line-height: 1.5; color: #222; max-width: 380px;">
+            <h2 style="margin: 0 0 6px 0; color: #1a73e8; font-size: 16px; border-bottom: 2px solid #e0e0e0; padding-bottom: 4px;">BS028 — Mariel Cabrujas</h2>
+            <p style="margin: 4px 0 10px 0; font-style: italic; color: #666;">Artéfact : Bubbler Saturno Petit (Arrangement A0463)</p>
+            <table style="width: 100%; border-collapse: collapse; font-size: 13px; background: #fafafa; border: 1px solid #e8e8e8; border-radius: 4px;">
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Propriétaire :</td><td style="padding:4px 8px; font-weight:bold; color:#111;">Mariel Cabrujas</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Énergie P :</td><td style="padding:4px 8px; color:#9c27b0; font-weight:bold;">P0054</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Localisation :</td><td style="padding:4px 8px;">La Candelaria, Caracas, Venezuela</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Date d'installation :</td><td style="padding:4px 8px;">11/09/2025</td></tr>
+              
+            </table>
+            <p style="margin-top:10px;"><a href="https://drive.google.com/open?id=1_5UZ7PwefqjP9eoHOIF-fZ1NJeHUg20X" target="_blank" style="color:#1a73e8; font-weight:bold; text-decoration:none;">📄 Consulter la Fiche de Configuration PDF sur Google Drive</a></p>
+          </div>
+        ]]></description>
+        <Point>
+          <coordinates>-66.9042,10.5061,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BS029 — Daniel Alfonzo Rivas</name>
+        <styleUrl>#stylePetit</styleUrl>
+        <description><![CDATA[
+          <div style="font-family: Arial, sans-serif; font-size: 13px; line-height: 1.5; color: #222; max-width: 380px;">
+            <h2 style="margin: 0 0 6px 0; color: #1a73e8; font-size: 16px; border-bottom: 2px solid #e0e0e0; padding-bottom: 4px;">BS029 — Daniel Alfonzo Rivas</h2>
+            <p style="margin: 4px 0 10px 0; font-style: italic; color: #666;">Artéfact : Bubbler Saturno Petit (Arrangement A0463)</p>
+            <table style="width: 100%; border-collapse: collapse; font-size: 13px; background: #fafafa; border: 1px solid #e8e8e8; border-radius: 4px;">
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Propriétaire :</td><td style="padding:4px 8px; font-weight:bold; color:#111;">Daniel Alfonzo Rivas</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Énergie P :</td><td style="padding:4px 8px; color:#9c27b0; font-weight:bold;">P0052</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Localisation :</td><td style="padding:4px 8px;">El Encantado, Caracas, Venezuela</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Date d'installation :</td><td style="padding:4px 8px;">11/09/2025</td></tr>
+              
+            </table>
+            <p style="margin-top:10px;"><a href="https://drive.google.com/open?id=1_QujFMzh4WN1PdlZhS3jefzNEOYnPLV6" target="_blank" style="color:#1a73e8; font-weight:bold; text-decoration:none;">📄 Consulter la Fiche de Configuration PDF sur Google Drive</a></p>
+          </div>
+        ]]></description>
+        <Point>
+          <coordinates>-66.8194,10.4458,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BS030 — Miranda Banchs</name>
+        <styleUrl>#stylePetit</styleUrl>
+        <description><![CDATA[
+          <div style="font-family: Arial, sans-serif; font-size: 13px; line-height: 1.5; color: #222; max-width: 380px;">
+            <h2 style="margin: 0 0 6px 0; color: #1a73e8; font-size: 16px; border-bottom: 2px solid #e0e0e0; padding-bottom: 4px;">BS030 — Miranda Banchs</h2>
+            <p style="margin: 4px 0 10px 0; font-style: italic; color: #666;">Artéfact : Bubbler Saturno Petit (Arrangement A0463)</p>
+            <table style="width: 100%; border-collapse: collapse; font-size: 13px; background: #fafafa; border: 1px solid #e8e8e8; border-radius: 4px;">
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Propriétaire :</td><td style="padding:4px 8px; font-weight:bold; color:#111;">Miranda Banchs</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Énergie P :</td><td style="padding:4px 8px; color:#9c27b0; font-weight:bold;">P0021</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Localisation :</td><td style="padding:4px 8px;">Los Samanes, Caracas, Venezuela</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Date d'installation :</td><td style="padding:4px 8px;">06/10/2025</td></tr>
+              
+            </table>
+            <p style="margin-top:10px;"><a href="https://drive.google.com/open?id=1cJfgRz8mqGrpv4hYsFhZKmto32G1yIKB" target="_blank" style="color:#1a73e8; font-weight:bold; text-decoration:none;">📄 Consulter la Fiche de Configuration PDF sur Google Drive</a></p>
+          </div>
+        ]]></description>
+        <Point>
+          <coordinates>-66.8444,10.4556,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BS031 — Paolo De Doménico</name>
+        <styleUrl>#stylePetit</styleUrl>
+        <description><![CDATA[
+          <div style="font-family: Arial, sans-serif; font-size: 13px; line-height: 1.5; color: #222; max-width: 380px;">
+            <h2 style="margin: 0 0 6px 0; color: #1a73e8; font-size: 16px; border-bottom: 2px solid #e0e0e0; padding-bottom: 4px;">BS031 — Paolo De Doménico</h2>
+            <p style="margin: 4px 0 10px 0; font-style: italic; color: #666;">Artéfact : Bubbler Saturno Petit (Arrangement A0463)</p>
+            <table style="width: 100%; border-collapse: collapse; font-size: 13px; background: #fafafa; border: 1px solid #e8e8e8; border-radius: 4px;">
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Propriétaire :</td><td style="padding:4px 8px; font-weight:bold; color:#111;">Paolo De Doménico</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Énergie P :</td><td style="padding:4px 8px; color:#9c27b0; font-weight:bold;">P0609</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Localisation :</td><td style="padding:4px 8px;">Barrio América, Gran Asunción, Paraguay</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Date d'installation :</td><td style="padding:4px 8px;">22/11/2025</td></tr>
+              
+            </table>
+            <p style="margin-top:10px;"><a href="https://drive.google.com/open?id=1ca4NmY9ssZ_NBB7VxWaLwU-Xx6iQ-HmR" target="_blank" style="color:#1a73e8; font-weight:bold; text-decoration:none;">📄 Consulter la Fiche de Configuration PDF sur Google Drive</a></p>
+          </div>
+        ]]></description>
+        <Point>
+          <coordinates>-57.535,-25.265,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BS032 — Jorge Irrazábal</name>
+        <styleUrl>#stylePetit</styleUrl>
+        <description><![CDATA[
+          <div style="font-family: Arial, sans-serif; font-size: 13px; line-height: 1.5; color: #222; max-width: 380px;">
+            <h2 style="margin: 0 0 6px 0; color: #1a73e8; font-size: 16px; border-bottom: 2px solid #e0e0e0; padding-bottom: 4px;">BS032 — Jorge Irrazábal</h2>
+            <p style="margin: 4px 0 10px 0; font-style: italic; color: #666;">Artéfact : Bubbler Saturno Petit (Arrangement A0463)</p>
+            <table style="width: 100%; border-collapse: collapse; font-size: 13px; background: #fafafa; border: 1px solid #e8e8e8; border-radius: 4px;">
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Propriétaire :</td><td style="padding:4px 8px; font-weight:bold; color:#111;">Jorge Irrazábal</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Énergie P :</td><td style="padding:4px 8px; color:#9c27b0; font-weight:bold;">P0967</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Localisation :</td><td style="padding:4px 8px;">Mariscal Estigarribia, Asunción, Paraguay</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Date d'installation :</td><td style="padding:4px 8px;">27/11/2025</td></tr>
+              <tr><td style="padding:4px 8px; font-weight:bold; color:#555;">Certificat :</td><td style="padding:4px 8px;">EC030532</td></tr>
+            </table>
+            <p style="margin-top:10px;"><a href="https://drive.google.com/open?id=1d-MhNW0aYGfQcv9c_Ax7212Dt7mcY_g5" target="_blank" style="color:#1a73e8; font-weight:bold; text-decoration:none;">📄 Consulter la Fiche de Configuration PDF sur Google Drive</a></p>
+          </div>
+        ]]></description>
+        <Point>
+          <coordinates>-57.575,-25.3056,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BS033 — Moisés Aldana</name>
+        <styleUrl>#stylePetit</styleUrl>
+        <description><![CDATA[
+          <div style="font-family: Arial, sans-serif; font-size: 13px; line-height: 1.5; color: #222; max-width: 380px;">
+            <h2 style="margin: 0 0 6px 0; color: #1a73e8; font-size: 16px; border-bottom: 2px solid #e0e0e0; padding-bottom: 4px;">BS033 — Moisés Aldana</h2>
+            <p style="margin: 4px 0 10px 0; font-style: italic; color: #666;">Artéfact : Bubbler Saturno Petit (Arrangement A0463)</p>
+            <table style="width: 100%; border-collapse: collapse; font-size: 13px; background: #fafafa; border: 1px solid #e8e8e8; border-radius: 4px;">
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Propriétaire :</td><td style="padding:4px 8px; font-weight:bold; color:#111;">Moisés Aldana</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Énergie P :</td><td style="padding:4px 8px; color:#9c27b0; font-weight:bold;">P0063</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Localisation :</td><td style="padding:4px 8px;">Santa Eduvigis, Caracas, Venezuela</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Date d'installation :</td><td style="padding:4px 8px;">28/11/2025</td></tr>
+              
+            </table>
+            <p style="margin-top:10px;"><a href="https://drive.google.com/open?id=1dO4cIRdM8-UmYx7GioxpCwuFwFSDYphh" target="_blank" style="color:#1a73e8; font-weight:bold; text-decoration:none;">📄 Consulter la Fiche de Configuration PDF sur Google Drive</a></p>
+          </div>
+        ]]></description>
+        <Point>
+          <coordinates>-66.8389,10.4969,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BS034 — Mariela Rivarola</name>
+        <styleUrl>#stylePetit</styleUrl>
+        <description><![CDATA[
+          <div style="font-family: Arial, sans-serif; font-size: 13px; line-height: 1.5; color: #222; max-width: 380px;">
+            <h2 style="margin: 0 0 6px 0; color: #1a73e8; font-size: 16px; border-bottom: 2px solid #e0e0e0; padding-bottom: 4px;">BS034 — Mariela Rivarola</h2>
+            <p style="margin: 4px 0 10px 0; font-style: italic; color: #666;">Artéfact : Bubbler Saturno Petit (Arrangement A0463)</p>
+            <table style="width: 100%; border-collapse: collapse; font-size: 13px; background: #fafafa; border: 1px solid #e8e8e8; border-radius: 4px;">
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Propriétaire :</td><td style="padding:4px 8px; font-weight:bold; color:#111;">Mariela Rivarola</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Énergie P :</td><td style="padding:4px 8px; color:#9c27b0; font-weight:bold;">P1046</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Localisation :</td><td style="padding:4px 8px;">Barrio Ciudad Nueva, Encarnación, Paraguay</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Date d'installation :</td><td style="padding:4px 8px;">05/12/2025</td></tr>
+              
+            </table>
+            <p style="margin-top:10px;"><a href="https://drive.google.com/open?id=1dW5wwX8180ovuDgatTvnFNwS0pxvnj0I" target="_blank" style="color:#1a73e8; font-weight:bold; text-decoration:none;">📄 Consulter la Fiche de Configuration PDF sur Google Drive</a></p>
+          </div>
+        ]]></description>
+        <Point>
+          <coordinates>-55.845,-27.345,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BS035 — Rubén García</name>
+        <styleUrl>#stylePetit</styleUrl>
+        <description><![CDATA[
+          <div style="font-family: Arial, sans-serif; font-size: 13px; line-height: 1.5; color: #222; max-width: 380px;">
+            <h2 style="margin: 0 0 6px 0; color: #1a73e8; font-size: 16px; border-bottom: 2px solid #e0e0e0; padding-bottom: 4px;">BS035 — Rubén García</h2>
+            <p style="margin: 4px 0 10px 0; font-style: italic; color: #666;">Artéfact : Bubbler Saturno Petit (Arrangement A0463)</p>
+            <table style="width: 100%; border-collapse: collapse; font-size: 13px; background: #fafafa; border: 1px solid #e8e8e8; border-radius: 4px;">
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Propriétaire :</td><td style="padding:4px 8px; font-weight:bold; color:#111;">Rubén García</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Énergie P :</td><td style="padding:4px 8px; color:#9c27b0; font-weight:bold;">P0044</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Localisation :</td><td style="padding:4px 8px;">La Florida, Caracas, Venezuela</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Date d'installation :</td><td style="padding:4px 8px;">17/12/2025</td></tr>
+              
+            </table>
+            <p style="margin-top:10px;"><a href="https://drive.google.com/open?id=1ttHSvLgWKl4x5vij6kfrG40LF_JUVE-m" target="_blank" style="color:#1a73e8; font-weight:bold; text-decoration:none;">📄 Consulter la Fiche de Configuration PDF sur Google Drive</a></p>
+          </div>
+        ]]></description>
+        <Point>
+          <coordinates>-66.8833,10.5014,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BS036 — Mattison Heinrich</name>
+        <styleUrl>#stylePetit</styleUrl>
+        <description><![CDATA[
+          <div style="font-family: Arial, sans-serif; font-size: 13px; line-height: 1.5; color: #222; max-width: 380px;">
+            <h2 style="margin: 0 0 6px 0; color: #1a73e8; font-size: 16px; border-bottom: 2px solid #e0e0e0; padding-bottom: 4px;">BS036 — Mattison Heinrich</h2>
+            <p style="margin: 4px 0 10px 0; font-style: italic; color: #666;">Artéfact : Bubbler Saturno Petit (Arrangement A0463)</p>
+            <table style="width: 100%; border-collapse: collapse; font-size: 13px; background: #fafafa; border: 1px solid #e8e8e8; border-radius: 4px;">
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Propriétaire :</td><td style="padding:4px 8px; font-weight:bold; color:#111;">Mattison Heinrich</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Énergie P :</td><td style="padding:4px 8px; color:#9c27b0; font-weight:bold;">P0604</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Localisation :</td><td style="padding:4px 8px;">Ocean Beach, California, USA</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Date d'installation :</td><td style="padding:4px 8px;">15/12/2025</td></tr>
+              
+            </table>
+            <p style="margin-top:10px;"><a href="https://drive.google.com/open?id=1jFrTZLT2IlQpBHArOa9bS3WyLGhLtia8" target="_blank" style="color:#1a73e8; font-weight:bold; text-decoration:none;">📄 Consulter la Fiche de Configuration PDF sur Google Drive</a></p>
+          </div>
+        ]]></description>
+        <Point>
+          <coordinates>-117.2478,32.7483,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BS037 — María Paz Sansevero</name>
+        <styleUrl>#stylePetit</styleUrl>
+        <description><![CDATA[
+          <div style="font-family: Arial, sans-serif; font-size: 13px; line-height: 1.5; color: #222; max-width: 380px;">
+            <h2 style="margin: 0 0 6px 0; color: #1a73e8; font-size: 16px; border-bottom: 2px solid #e0e0e0; padding-bottom: 4px;">BS037 — María Paz Sansevero</h2>
+            <p style="margin: 4px 0 10px 0; font-style: italic; color: #666;">Artéfact : Bubbler Saturno Petit (Arrangement A0463)</p>
+            <table style="width: 100%; border-collapse: collapse; font-size: 13px; background: #fafafa; border: 1px solid #e8e8e8; border-radius: 4px;">
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Propriétaire :</td><td style="padding:4px 8px; font-weight:bold; color:#111;">María Paz Sansevero</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Énergie P :</td><td style="padding:4px 8px; color:#9c27b0; font-weight:bold;">P0930</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Localisation :</td><td style="padding:4px 8px;">Pergamino, Buenos Aires, Argentina</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Date d'installation :</td><td style="padding:4px 8px;">08/01/2026</td></tr>
+              
+            </table>
+            <p style="margin-top:10px;"><a href="https://drive.google.com/open?id=1UmAEzL82cQXVrFTPq3kJGn8RfRs9BOhn" target="_blank" style="color:#1a73e8; font-weight:bold; text-decoration:none;">📄 Consulter la Fiche de Configuration PDF sur Google Drive</a></p>
+          </div>
+        ]]></description>
+        <Point>
+          <coordinates>-60.5736,-33.8967,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BS038 — Sonya Veytsman</name>
+        <styleUrl>#stylePetit</styleUrl>
+        <description><![CDATA[
+          <div style="font-family: Arial, sans-serif; font-size: 13px; line-height: 1.5; color: #222; max-width: 380px;">
+            <h2 style="margin: 0 0 6px 0; color: #1a73e8; font-size: 16px; border-bottom: 2px solid #e0e0e0; padding-bottom: 4px;">BS038 — Sonya Veytsman</h2>
+            <p style="margin: 4px 0 10px 0; font-style: italic; color: #666;">Artéfact : Bubbler Saturno Petit (Arrangement A0463)</p>
+            <table style="width: 100%; border-collapse: collapse; font-size: 13px; background: #fafafa; border: 1px solid #e8e8e8; border-radius: 4px;">
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Propriétaire :</td><td style="padding:4px 8px; font-weight:bold; color:#111;">Sonya Veytsman</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Énergie P :</td><td style="padding:4px 8px; color:#9c27b0; font-weight:bold;">P0793</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Localisation :</td><td style="padding:4px 8px;">Manhattan, New York, USA</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Date d'installation :</td><td style="padding:4px 8px;">25/12/2025</td></tr>
+              <tr><td style="padding:4px 8px; font-weight:bold; color:#555;">Certificat :</td><td style="padding:4px 8px;">EC003543</td></tr>
+            </table>
+            <p style="margin-top:10px;"><a href="https://drive.google.com/open?id=1zF8eqz6Wek6Q6GFP9xm8ffBvPBQBTY-1" target="_blank" style="color:#1a73e8; font-weight:bold; text-decoration:none;">📄 Consulter la Fiche de Configuration PDF sur Google Drive</a></p>
+          </div>
+        ]]></description>
+        <Point>
+          <coordinates>-73.9712,40.7831,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BS039 — Joaquín Villarino</name>
+        <styleUrl>#stylePetit</styleUrl>
+        <description><![CDATA[
+          <div style="font-family: Arial, sans-serif; font-size: 13px; line-height: 1.5; color: #222; max-width: 380px;">
+            <h2 style="margin: 0 0 6px 0; color: #1a73e8; font-size: 16px; border-bottom: 2px solid #e0e0e0; padding-bottom: 4px;">BS039 — Joaquín Villarino</h2>
+            <p style="margin: 4px 0 10px 0; font-style: italic; color: #666;">Artéfact : Bubbler Saturno Petit (Arrangement A0463)</p>
+            <table style="width: 100%; border-collapse: collapse; font-size: 13px; background: #fafafa; border: 1px solid #e8e8e8; border-radius: 4px;">
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Propriétaire :</td><td style="padding:4px 8px; font-weight:bold; color:#111;">Joaquín Villarino</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Énergie P :</td><td style="padding:4px 8px; color:#9c27b0; font-weight:bold;">P0639</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Localisation :</td><td style="padding:4px 8px;">Lo Barnechea, Santiago de Chile, Chile</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Date d'installation :</td><td style="padding:4px 8px;">16/02/2026</td></tr>
+              
+            </table>
+            <p style="margin-top:10px;"><a href="https://drive.google.com/open?id=1WmnzkgSglcfCQHIHDUlOmsA8AV8c_HWI" target="_blank" style="color:#1a73e8; font-weight:bold; text-decoration:none;">📄 Consulter la Fiche de Configuration PDF sur Google Drive</a></p>
+          </div>
+        ]]></description>
+        <Point>
+          <coordinates>-70.5167,-33.3556,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BS040 — Raúl Moreno</name>
+        <styleUrl>#stylePetit</styleUrl>
+        <description><![CDATA[
+          <div style="font-family: Arial, sans-serif; font-size: 13px; line-height: 1.5; color: #222; max-width: 380px;">
+            <h2 style="margin: 0 0 6px 0; color: #1a73e8; font-size: 16px; border-bottom: 2px solid #e0e0e0; padding-bottom: 4px;">BS040 — Raúl Moreno</h2>
+            <p style="margin: 4px 0 10px 0; font-style: italic; color: #666;">Artéfact : Bubbler Saturno Petit (Arrangement A0463)</p>
+            <table style="width: 100%; border-collapse: collapse; font-size: 13px; background: #fafafa; border: 1px solid #e8e8e8; border-radius: 4px;">
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Propriétaire :</td><td style="padding:4px 8px; font-weight:bold; color:#111;">Raúl Moreno</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Énergie P :</td><td style="padding:4px 8px; color:#9c27b0; font-weight:bold;">P0128</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Localisation :</td><td style="padding:4px 8px;">San Francisco, Ciudad de Panamá, Panamá</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Date d'installation :</td><td style="padding:4px 8px;">16/03/2026</td></tr>
+              
+            </table>
+            <p style="margin-top:10px;"><a href="https://drive.google.com/open?id=159c4ryAZeXzLgrdm56NH2C9FQea6tuYi" target="_blank" style="color:#1a73e8; font-weight:bold; text-decoration:none;">📄 Consulter la Fiche de Configuration PDF sur Google Drive</a></p>
+          </div>
+        ]]></description>
+        <Point>
+          <coordinates>-79.4972,8.9889,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BS041 — Ravi Nathani</name>
+        <styleUrl>#stylePetit</styleUrl>
+        <description><![CDATA[
+          <div style="font-family: Arial, sans-serif; font-size: 13px; line-height: 1.5; color: #222; max-width: 380px;">
+            <h2 style="margin: 0 0 6px 0; color: #1a73e8; font-size: 16px; border-bottom: 2px solid #e0e0e0; padding-bottom: 4px;">BS041 — Ravi Nathani</h2>
+            <p style="margin: 4px 0 10px 0; font-style: italic; color: #666;">Artéfact : Bubbler Saturno Petit (Arrangement A0463)</p>
+            <table style="width: 100%; border-collapse: collapse; font-size: 13px; background: #fafafa; border: 1px solid #e8e8e8; border-radius: 4px;">
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Propriétaire :</td><td style="padding:4px 8px; font-weight:bold; color:#111;">Ravi Nathani</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Énergie P :</td><td style="padding:4px 8px; color:#9c27b0; font-weight:bold;">P0905</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Localisation :</td><td style="padding:4px 8px;">San Francisco, Ciudad de Panamá, Panamá</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Date d'installation :</td><td style="padding:4px 8px;">24/03/2026</td></tr>
+              
+            </table>
+            <p style="margin-top:10px;"><a href="https://drive.google.com/open?id=1P9FSo55zm-Wh3hf5ZlQDmrgMHXxGzGgS" target="_blank" style="color:#1a73e8; font-weight:bold; text-decoration:none;">📄 Consulter la Fiche de Configuration PDF sur Google Drive</a></p>
+          </div>
+        ]]></description>
+        <Point>
+          <coordinates>-79.4942,8.9869,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BS042 — Nora Buenaño</name>
+        <styleUrl>#stylePetit</styleUrl>
+        <description><![CDATA[
+          <div style="font-family: Arial, sans-serif; font-size: 13px; line-height: 1.5; color: #222; max-width: 380px;">
+            <h2 style="margin: 0 0 6px 0; color: #1a73e8; font-size: 16px; border-bottom: 2px solid #e0e0e0; padding-bottom: 4px;">BS042 — Nora Buenaño</h2>
+            <p style="margin: 4px 0 10px 0; font-style: italic; color: #666;">Artéfact : Bubbler Saturno Petit (Arrangement A0463)</p>
+            <table style="width: 100%; border-collapse: collapse; font-size: 13px; background: #fafafa; border: 1px solid #e8e8e8; border-radius: 4px;">
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Propriétaire :</td><td style="padding:4px 8px; font-weight:bold; color:#111;">Nora Buenaño</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Énergie P :</td><td style="padding:4px 8px; color:#9c27b0; font-weight:bold;">P0061</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Localisation :</td><td style="padding:4px 8px;">Altamira, Caracas, Venezuela</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Date d'installation :</td><td style="padding:4px 8px;">10/04/2026</td></tr>
+              
+            </table>
+            <p style="margin-top:10px;"><a href="https://drive.google.com/open?id=14LxU_yyIUqHIqtoGt1Y8Utv4Jysv3HZO" target="_blank" style="color:#1a73e8; font-weight:bold; text-decoration:none;">📄 Consulter la Fiche de Configuration PDF sur Google Drive</a></p>
+          </div>
+        ]]></description>
+        <Point>
+          <coordinates>-66.8505,10.5,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BS043 — Dardo González Ramos</name>
+        <styleUrl>#stylePetit</styleUrl>
+        <description><![CDATA[
+          <div style="font-family: Arial, sans-serif; font-size: 13px; line-height: 1.5; color: #222; max-width: 380px;">
+            <h2 style="margin: 0 0 6px 0; color: #1a73e8; font-size: 16px; border-bottom: 2px solid #e0e0e0; padding-bottom: 4px;">BS043 — Dardo González Ramos</h2>
+            <p style="margin: 4px 0 10px 0; font-style: italic; color: #666;">Artéfact : Bubbler Saturno Petit (Arrangement A0463)</p>
+            <table style="width: 100%; border-collapse: collapse; font-size: 13px; background: #fafafa; border: 1px solid #e8e8e8; border-radius: 4px;">
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Propriétaire :</td><td style="padding:4px 8px; font-weight:bold; color:#111;">Dardo González Ramos</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Énergie P :</td><td style="padding:4px 8px; color:#9c27b0; font-weight:bold;">P0923</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Localisation :</td><td style="padding:4px 8px;">Los Laureles, Asunción, Paraguay</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Date d'installation :</td><td style="padding:4px 8px;">16/04/2026</td></tr>
+              
+            </table>
+            <p style="margin-top:10px;"><a href="https://drive.google.com/open?id=1cCz-nKajSaG4Uk6yvKAunfHWxPIwBnNy" target="_blank" style="color:#1a73e8; font-weight:bold; text-decoration:none;">📄 Consulter la Fiche de Configuration PDF sur Google Drive</a></p>
+          </div>
+        ]]></description>
+        <Point>
+          <coordinates>-57.568,-25.312,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BS044 — Manutej Mulaveesala</name>
+        <styleUrl>#stylePetit</styleUrl>
+        <description><![CDATA[
+          <div style="font-family: Arial, sans-serif; font-size: 13px; line-height: 1.5; color: #222; max-width: 380px;">
+            <h2 style="margin: 0 0 6px 0; color: #1a73e8; font-size: 16px; border-bottom: 2px solid #e0e0e0; padding-bottom: 4px;">BS044 — Manutej Mulaveesala</h2>
+            <p style="margin: 4px 0 10px 0; font-style: italic; color: #666;">Artéfact : Bubbler Saturno Petit (Arrangement A0463)</p>
+            <table style="width: 100%; border-collapse: collapse; font-size: 13px; background: #fafafa; border: 1px solid #e8e8e8; border-radius: 4px;">
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Propriétaire :</td><td style="padding:4px 8px; font-weight:bold; color:#111;">Manutej Mulaveesala</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Énergie P :</td><td style="padding:4px 8px; color:#9c27b0; font-weight:bold;">P0656</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Localisation :</td><td style="padding:4px 8px;">Emiliano Zapata, Bahía de Banderas, México</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Date d'installation :</td><td style="padding:4px 8px;">02/07/2026</td></tr>
+              
+            </table>
+            <p style="margin-top:10px;"><a href="https://drive.google.com/open?id=1BrrEeZhNp5Xf8XTUECmLY0rLIpO68LMJ" target="_blank" style="color:#1a73e8; font-weight:bold; text-decoration:none;">📄 Consulter la Fiche de Configuration PDF sur Google Drive</a></p>
+          </div>
+        ]]></description>
+        <Point>
+          <coordinates>-105.3589,20.8033,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BS045 — Anthony Elia</name>
+        <styleUrl>#stylePetit</styleUrl>
+        <description><![CDATA[
+          <div style="font-family: Arial, sans-serif; font-size: 13px; line-height: 1.5; color: #222; max-width: 380px;">
+            <h2 style="margin: 0 0 6px 0; color: #1a73e8; font-size: 16px; border-bottom: 2px solid #e0e0e0; padding-bottom: 4px;">BS045 — Anthony Elia</h2>
+            <p style="margin: 4px 0 10px 0; font-style: italic; color: #666;">Artéfact : Bubbler Saturno Petit (Arrangement A0463)</p>
+            <table style="width: 100%; border-collapse: collapse; font-size: 13px; background: #fafafa; border: 1px solid #e8e8e8; border-radius: 4px;">
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Propriétaire :</td><td style="padding:4px 8px; font-weight:bold; color:#111;">Anthony Elia</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Énergie P :</td><td style="padding:4px 8px; color:#9c27b0; font-weight:bold;">P0336</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Localisation :</td><td style="padding:4px 8px;">Campo Alegre, Caracas, Venezuela</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Date d'installation :</td><td style="padding:4px 8px;">07/07/2026</td></tr>
+              
+            </table>
+            <p style="margin-top:10px;"><a href="https://drive.google.com/open?id=1VoI-hv-ziS95mrR6cozMGeWrWKhBu3No" target="_blank" style="color:#1a73e8; font-weight:bold; text-decoration:none;">📄 Consulter la Fiche de Configuration PDF sur Google Drive</a></p>
+          </div>
+        ]]></description>
+        <Point>
+          <coordinates>-66.8611,10.4925,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BS046 — Yureisly Suárez</name>
+        <styleUrl>#stylePetit</styleUrl>
+        <description><![CDATA[
+          <div style="font-family: Arial, sans-serif; font-size: 13px; line-height: 1.5; color: #222; max-width: 380px;">
+            <h2 style="margin: 0 0 6px 0; color: #1a73e8; font-size: 16px; border-bottom: 2px solid #e0e0e0; padding-bottom: 4px;">BS046 — Yureisly Suárez</h2>
+            <p style="margin: 4px 0 10px 0; font-style: italic; color: #666;">Artéfact : Bubbler Saturno Petit (Arrangement A0463)</p>
+            <table style="width: 100%; border-collapse: collapse; font-size: 13px; background: #fafafa; border: 1px solid #e8e8e8; border-radius: 4px;">
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Propriétaire :</td><td style="padding:4px 8px; font-weight:bold; color:#111;">Yureisly Suárez</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Énergie P :</td><td style="padding:4px 8px; color:#9c27b0; font-weight:bold;">P0795</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Localisation :</td><td style="padding:4px 8px;">East Austin, Texas, USA</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Date d'installation :</td><td style="padding:4px 8px;">29/06/2026</td></tr>
+              
+            </table>
+            <p style="margin-top:10px;"><a href="https://drive.google.com/open?id=1J0ZVIaHo1oAq82aicaQrf21ic77CFRl6" target="_blank" style="color:#1a73e8; font-weight:bold; text-decoration:none;">📄 Consulter la Fiche de Configuration PDF sur Google Drive</a></p>
+          </div>
+        ]]></description>
+        <Point>
+          <coordinates>-97.715,30.2729,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BS047 — Ricardo Azpúrua</name>
+        <styleUrl>#stylePetit</styleUrl>
+        <description><![CDATA[
+          <div style="font-family: Arial, sans-serif; font-size: 13px; line-height: 1.5; color: #222; max-width: 380px;">
+            <h2 style="margin: 0 0 6px 0; color: #1a73e8; font-size: 16px; border-bottom: 2px solid #e0e0e0; padding-bottom: 4px;">BS047 — Ricardo Azpúrua</h2>
+            <p style="margin: 4px 0 10px 0; font-style: italic; color: #666;">Artéfact : Bubbler Saturno Petit (Arrangement A0463)</p>
+            <table style="width: 100%; border-collapse: collapse; font-size: 13px; background: #fafafa; border: 1px solid #e8e8e8; border-radius: 4px;">
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Propriétaire :</td><td style="padding:4px 8px; font-weight:bold; color:#111;">Ricardo Azpúrua</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Énergie P :</td><td style="padding:4px 8px; color:#9c27b0; font-weight:bold;">P0940</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Localisation :</td><td style="padding:4px 8px;">El Pedregal, Caracas, Venezuela</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Date d'installation :</td><td style="padding:4px 8px;">13/07/2026</td></tr>
+              
+            </table>
+            <p style="margin-top:10px;"><a href="https://drive.google.com/open?id=1u8tSqCOHGziXDj70pENoZ4ydZcJDCAQM" target="_blank" style="color:#1a73e8; font-weight:bold; text-decoration:none;">📄 Consulter la Fiche de Configuration PDF sur Google Drive</a></p>
+          </div>
+        ]]></description>
+        <Point>
+          <coordinates>-66.855,10.5028,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BS048 — Raúl Araujo</name>
+        <styleUrl>#stylePetit</styleUrl>
+        <description><![CDATA[
+          <div style="font-family: Arial, sans-serif; font-size: 13px; line-height: 1.5; color: #222; max-width: 380px;">
+            <h2 style="margin: 0 0 6px 0; color: #1a73e8; font-size: 16px; border-bottom: 2px solid #e0e0e0; padding-bottom: 4px;">BS048 — Raúl Araujo</h2>
+            <p style="margin: 4px 0 10px 0; font-style: italic; color: #666;">Artéfact : Bubbler Saturno Petit (Arrangement A0463)</p>
+            <table style="width: 100%; border-collapse: collapse; font-size: 13px; background: #fafafa; border: 1px solid #e8e8e8; border-radius: 4px;">
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Propriétaire :</td><td style="padding:4px 8px; font-weight:bold; color:#111;">Raúl Araujo</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Énergie P :</td><td style="padding:4px 8px; color:#9c27b0; font-weight:bold;">P1169</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Localisation :</td><td style="padding:4px 8px;">Núñez, Buenos Aires, Argentina</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Date d'installation :</td><td style="padding:4px 8px;">06/07/2026</td></tr>
+              
+            </table>
+            <p style="margin-top:10px;"><a href="https://drive.google.com/open?id=1KAp8rXhJh6eAPl_ehPpmv36EHC6mSLtS" target="_blank" style="color:#1a73e8; font-weight:bold; text-decoration:none;">📄 Consulter la Fiche de Configuration PDF sur Google Drive</a></p>
+          </div>
+        ]]></description>
+        <Point>
+          <coordinates>-58.4619,-34.5447,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BS049 — José Pérez</name>
+        <styleUrl>#stylePetit</styleUrl>
+        <description><![CDATA[
+          <div style="font-family: Arial, sans-serif; font-size: 13px; line-height: 1.5; color: #222; max-width: 380px;">
+            <h2 style="margin: 0 0 6px 0; color: #1a73e8; font-size: 16px; border-bottom: 2px solid #e0e0e0; padding-bottom: 4px;">BS049 — José Pérez</h2>
+            <p style="margin: 4px 0 10px 0; font-style: italic; color: #666;">Artéfact : Bubbler Saturno Petit (Arrangement A0463)</p>
+            <table style="width: 100%; border-collapse: collapse; font-size: 13px; background: #fafafa; border: 1px solid #e8e8e8; border-radius: 4px;">
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Propriétaire :</td><td style="padding:4px 8px; font-weight:bold; color:#111;">José Pérez</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Énergie P :</td><td style="padding:4px 8px; color:#9c27b0; font-weight:bold;">P0917</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Localisation :</td><td style="padding:4px 8px;">Villarrica, Guaira, Paraguay</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Date d'installation :</td><td style="padding:4px 8px;">12/08/2026</td></tr>
+              
+            </table>
+            <p style="margin-top:10px;"><a href="https://drive.google.com/open?id=1RiloHDzKhE98mWt1FxeRF7HPefzHbCHR" target="_blank" style="color:#1a73e8; font-weight:bold; text-decoration:none;">📄 Consulter la Fiche de Configuration PDF sur Google Drive</a></p>
+          </div>
+        ]]></description>
+        <Point>
+          <coordinates>-56.4444,-25.7494,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BS050 — Lucas Grizz</name>
+        <styleUrl>#stylePetit</styleUrl>
+        <description><![CDATA[
+          <div style="font-family: Arial, sans-serif; font-size: 13px; line-height: 1.5; color: #222; max-width: 380px;">
+            <h2 style="margin: 0 0 6px 0; color: #1a73e8; font-size: 16px; border-bottom: 2px solid #e0e0e0; padding-bottom: 4px;">BS050 — Lucas Grizz</h2>
+            <p style="margin: 4px 0 10px 0; font-style: italic; color: #666;">Artéfact : Bubbler Saturno Petit (Arrangement A0463)</p>
+            <table style="width: 100%; border-collapse: collapse; font-size: 13px; background: #fafafa; border: 1px solid #e8e8e8; border-radius: 4px;">
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Propriétaire :</td><td style="padding:4px 8px; font-weight:bold; color:#111;">Lucas Grizz</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Énergie P :</td><td style="padding:4px 8px; color:#9c27b0; font-weight:bold;">P0043</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Localisation :</td><td style="padding:4px 8px;">Costa Del Este, Ciudad de Panamá, Panamá</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Date d'installation :</td><td style="padding:4px 8px;">2026</td></tr>
+              
+            </table>
+            <p style="margin-top:10px;"><a href="https://drive.google.com/open?id=12RuGFcVtOqGawaM5Y54HhNt7RU1lqvWx" target="_blank" style="color:#1a73e8; font-weight:bold; text-decoration:none;">📄 Consulter la Fiche de Configuration PDF sur Google Drive</a></p>
+          </div>
+        ]]></description>
+        <Point>
+          <coordinates>-79.4722,9.0147,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BS051 — Javier Cabezas</name>
+        <styleUrl>#stylePetit</styleUrl>
+        <description><![CDATA[
+          <div style="font-family: Arial, sans-serif; font-size: 13px; line-height: 1.5; color: #222; max-width: 380px;">
+            <h2 style="margin: 0 0 6px 0; color: #1a73e8; font-size: 16px; border-bottom: 2px solid #e0e0e0; padding-bottom: 4px;">BS051 — Javier Cabezas</h2>
+            <p style="margin: 4px 0 10px 0; font-style: italic; color: #666;">Artéfact : Bubbler Saturno Petit (Arrangement A0463)</p>
+            <table style="width: 100%; border-collapse: collapse; font-size: 13px; background: #fafafa; border: 1px solid #e8e8e8; border-radius: 4px;">
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Propriétaire :</td><td style="padding:4px 8px; font-weight:bold; color:#111;">Javier Cabezas</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Énergie P :</td><td style="padding:4px 8px; color:#9c27b0; font-weight:bold;">P0088</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Localisation :</td><td style="padding:4px 8px;">Las Delicias, Caracas, Venezuela</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Date d'installation :</td><td style="padding:4px 8px;">13/08/2026</td></tr>
+              
+            </table>
+            <p style="margin-top:10px;"><a href="https://drive.google.com/open?id=1Do_Qnqvqvg--6MRO1zj284oC_eqmtRtB" target="_blank" style="color:#1a73e8; font-weight:bold; text-decoration:none;">📄 Consulter la Fiche de Configuration PDF sur Google Drive</a></p>
+          </div>
+        ]]></description>
+        <Point>
+          <coordinates>-66.8778,10.4917,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BS052 — Laura Römer</name>
+        <styleUrl>#stylePetit</styleUrl>
+        <description><![CDATA[
+          <div style="font-family: Arial, sans-serif; font-size: 13px; line-height: 1.5; color: #222; max-width: 380px;">
+            <h2 style="margin: 0 0 6px 0; color: #1a73e8; font-size: 16px; border-bottom: 2px solid #e0e0e0; padding-bottom: 4px;">BS052 — Laura Römer</h2>
+            <p style="margin: 4px 0 10px 0; font-style: italic; color: #666;">Artéfact : Bubbler Saturno Petit (Arrangement A0463)</p>
+            <table style="width: 100%; border-collapse: collapse; font-size: 13px; background: #fafafa; border: 1px solid #e8e8e8; border-radius: 4px;">
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Propriétaire :</td><td style="padding:4px 8px; font-weight:bold; color:#111;">Laura Römer</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Énergie P :</td><td style="padding:4px 8px; color:#9c27b0; font-weight:bold;">P0088</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Localisation :</td><td style="padding:4px 8px;">Manhattan Beach, Los Angeles County, USA</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Date d'installation :</td><td style="padding:4px 8px;">06/08/2026</td></tr>
+              <tr><td style="padding:4px 8px; font-weight:bold; color:#555;">Certificat :</td><td style="padding:4px 8px;">EC018404</td></tr>
+            </table>
+            <p style="margin-top:10px;"><a href="https://drive.google.com/open?id=1Do_Qnqvqvg--6MRO1zj284oC_eqmtRtB" target="_blank" style="color:#1a73e8; font-weight:bold; text-decoration:none;">📄 Consulter la Fiche de Configuration PDF sur Google Drive</a></p>
+          </div>
+        ]]></description>
+        <Point>
+          <coordinates>-118.4109,33.8847,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BS053 — Katherine Ammerlaan</name>
+        <styleUrl>#stylePetit</styleUrl>
+        <description><![CDATA[
+          <div style="font-family: Arial, sans-serif; font-size: 13px; line-height: 1.5; color: #222; max-width: 380px;">
+            <h2 style="margin: 0 0 6px 0; color: #1a73e8; font-size: 16px; border-bottom: 2px solid #e0e0e0; padding-bottom: 4px;">BS053 — Katherine Ammerlaan</h2>
+            <p style="margin: 4px 0 10px 0; font-style: italic; color: #666;">Artéfact : Bubbler Saturno Petit (Arrangement A0463)</p>
+            <table style="width: 100%; border-collapse: collapse; font-size: 13px; background: #fafafa; border: 1px solid #e8e8e8; border-radius: 4px;">
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Propriétaire :</td><td style="padding:4px 8px; font-weight:bold; color:#111;">Katherine Ammerlaan</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Énergie P :</td><td style="padding:4px 8px; color:#9c27b0; font-weight:bold;">P0663</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Localisation :</td><td style="padding:4px 8px;">Philipsburg, Quebec, Canadá</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Date d'installation :</td><td style="padding:4px 8px;">2026</td></tr>
+              <tr><td style="padding:4px 8px; font-weight:bold; color:#555;">Certificat :</td><td style="padding:4px 8px;">EC001866</td></tr>
+            </table>
+            <p style="margin-top:10px;"><a href="https://drive.google.com/open?id=1iLF9PKJXWeVNSaAaHBb0gbUyOhTrDUHq" target="_blank" style="color:#1a73e8; font-weight:bold; text-decoration:none;">📄 Consulter la Fiche de Configuration PDF sur Google Drive</a></p>
+          </div>
+        ]]></description>
+        <Point>
+          <coordinates>-73.0822,45.0347,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BS054 — Mathieu Langlois</name>
+        <styleUrl>#stylePetit</styleUrl>
+        <description><![CDATA[
+          <div style="font-family: Arial, sans-serif; font-size: 13px; line-height: 1.5; color: #222; max-width: 380px;">
+            <h2 style="margin: 0 0 6px 0; color: #1a73e8; font-size: 16px; border-bottom: 2px solid #e0e0e0; padding-bottom: 4px;">BS054 — Mathieu Langlois</h2>
+            <p style="margin: 4px 0 10px 0; font-style: italic; color: #666;">Artéfact : Bubbler Saturno Petit (Arrangement A0463)</p>
+            <table style="width: 100%; border-collapse: collapse; font-size: 13px; background: #fafafa; border: 1px solid #e8e8e8; border-radius: 4px;">
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Propriétaire :</td><td style="padding:4px 8px; font-weight:bold; color:#111;">Mathieu Langlois</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Énergie P :</td><td style="padding:4px 8px; color:#9c27b0; font-weight:bold;">P1210</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Localisation :</td><td style="padding:4px 8px;">Les Rivières, Québec, Canadá</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Date d'installation :</td><td style="padding:4px 8px;">2026</td></tr>
+              
+            </table>
+            <p style="margin-top:10px;"><a href="https://drive.google.com/open?id=1Trh_cNWtI4sLdSYAhYGCpHZVzLXYjo2K" target="_blank" style="color:#1a73e8; font-weight:bold; text-decoration:none;">📄 Consulter la Fiche de Configuration PDF sur Google Drive</a></p>
+          </div>
+        ]]></description>
+        <Point>
+          <coordinates>-71.2882,46.8286,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BS055 — Arturo Banchs</name>
+        <styleUrl>#stylePetit</styleUrl>
+        <description><![CDATA[
+          <div style="font-family: Arial, sans-serif; font-size: 13px; line-height: 1.5; color: #222; max-width: 380px;">
+            <h2 style="margin: 0 0 6px 0; color: #1a73e8; font-size: 16px; border-bottom: 2px solid #e0e0e0; padding-bottom: 4px;">BS055 — Arturo Banchs</h2>
+            <p style="margin: 4px 0 10px 0; font-style: italic; color: #666;">Artéfact : Bubbler Saturno Petit (Arrangement A0463)</p>
+            <table style="width: 100%; border-collapse: collapse; font-size: 13px; background: #fafafa; border: 1px solid #e8e8e8; border-radius: 4px;">
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Propriétaire :</td><td style="padding:4px 8px; font-weight:bold; color:#111;">Arturo Banchs</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Énergie P :</td><td style="padding:4px 8px; color:#9c27b0; font-weight:bold;">P0043</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Localisation :</td><td style="padding:4px 8px;">Bello Campo, Caracas, Venezuela</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Date d'installation :</td><td style="padding:4px 8px;">23/07/2026</td></tr>
+              
+            </table>
+            <p style="margin-top:10px;"><a href="https://drive.google.com/open?id=12RuGFcVtOqGawaM5Y54HhNt7RU1lqvWx" target="_blank" style="color:#1a73e8; font-weight:bold; text-decoration:none;">📄 Consulter la Fiche de Configuration PDF sur Google Drive</a></p>
+          </div>
+        ]]></description>
+        <Point>
+          <coordinates>-66.852,10.493,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BS056 — Esther Fernandez</name>
+        <styleUrl>#stylePetit</styleUrl>
+        <description><![CDATA[
+          <div style="font-family: Arial, sans-serif; font-size: 13px; line-height: 1.5; color: #222; max-width: 380px;">
+            <h2 style="margin: 0 0 6px 0; color: #1a73e8; font-size: 16px; border-bottom: 2px solid #e0e0e0; padding-bottom: 4px;">BS056 — Esther Fernandez</h2>
+            <p style="margin: 4px 0 10px 0; font-style: italic; color: #666;">Artéfact : Bubbler Saturno Petit (Arrangement A0463)</p>
+            <table style="width: 100%; border-collapse: collapse; font-size: 13px; background: #fafafa; border: 1px solid #e8e8e8; border-radius: 4px;">
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Propriétaire :</td><td style="padding:4px 8px; font-weight:bold; color:#111;">Esther Fernandez</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Énergie P :</td><td style="padding:4px 8px; color:#9c27b0; font-weight:bold;">P0003</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Localisation :</td><td style="padding:4px 8px;">La Florida, Caracas, Venezuela</td></tr>
+              <tr style="border-bottom: 1px solid #e8e8e8;"><td style="padding:4px 8px; font-weight:bold; color:#555;">Date d'installation :</td><td style="padding:4px 8px;">2026</td></tr>
+              
+            </table>
+            <p style="margin-top:10px;"><a href="https://drive.google.com/open?id=1jIkRY-zrRTT7VHmepj_pa3GsE5zaU3Sj" target="_blank" style="color:#1a73e8; font-weight:bold; text-decoration:none;">📄 Consulter la Fiche de Configuration PDF sur Google Drive</a></p>
+          </div>
+        ]]></description>
+        <Point>
+          <coordinates>-66.8815,10.503,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

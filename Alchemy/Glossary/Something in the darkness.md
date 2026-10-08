@@ -1,0 +1,1 @@
+According to the Oxford Learner’s Dictionaries “something” is: “a thing that is not known or mentioned by name”. “Something in the darkness” is any indeterminate thing that prevents us from remaining in Happiness.

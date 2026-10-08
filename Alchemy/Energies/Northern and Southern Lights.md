@@ -1,0 +1,1 @@
+The *Northern Lights* are an enlivening of the brain-mind. The *Southern Lights* are an enlivening of the gross-vital. These _vials_ together are therefore an enlivening of the whole body. These _energies_ are a reflection in the world body at large of the internal structure of the human form or the upper and lower coil.

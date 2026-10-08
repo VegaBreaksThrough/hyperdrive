@@ -1,0 +1,4 @@
+---
+tags: []
+---
+This world is a conventional dualistic presentation based on the male and the female or things like the male and the female. The male form is the unextended dimension of the brain-mind and, in its greatest form, it is the demonstration of the penetration of *Real Consciousness* brought to the transformation of the unconscious extended form of the female domain as a loving gesture. The appropriate moral relationship of the male to the female forms is to bring about the transformation to the *Real* possibility of this extended form, which is transcendence of its own condition. *Tantra Yoga* is supposedly the *True* transcendental play of the human male and female, which in its highest form would be an [[Alchymie|Alchymeic]] wedding wherein the male and the female in their play attain a fullness of their structure and are ultimately lifted beyond their duality into the *Love-Bliss of the androgynous eternal now.*

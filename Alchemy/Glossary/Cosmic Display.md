@@ -1,0 +1,3 @@
+A phase often used by Adi Da Samraj in *The Dawn Horse Testament.* This is the world as it appears to be, the ordinary levels of experience of the earth as well as stars and other astronomical phenomena. We participate in such phenomena and the *subtle dimension*s of the *cosmic display*, however it is not *real*. *Realisation* penetrates the illusion of this life. Ordinary levels of experience are *seeing* and *feeling* things as appearances \- not penetrated \- wherein we fail to *see* the illusion of the *cosmic display*.
+
+This term describes the entire manifest universe as a play of Divine energy. The cosmic display is the outward expression of the Divine, seen as an interconnected and dynamic field of existence, where every part reflects the whole.

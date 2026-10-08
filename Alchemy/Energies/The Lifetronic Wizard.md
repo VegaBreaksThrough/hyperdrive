@@ -1,0 +1,1 @@
+In the subtle dimension, instead of electrons we have lifetrons, hence the Life tronic Wizard functions as a bridge between the causal dimension and the gross physical dimension, thereby bringing the Infinity Healing Designs more easily through from the causal dimension into the immense density demonstrated by the gross physical dimension.

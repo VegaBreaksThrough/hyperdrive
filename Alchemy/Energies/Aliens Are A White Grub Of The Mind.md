@@ -1,0 +1,6 @@
+---
+aliases:
+  - Alien
+  - Aliens
+---
+The aliens that we are always hearing of and having visions of are the reflections in the Shadow World of the actual condition of mankind, the actual effect on the body of male consciousness. These aliens are most often pictured to us as being of stunted stature, pallid complexion, huge black eyes, large round hairless skulls, thin arms, spidery fingers and indeterminate gender. The thin arms and spidery hands shows an incapacity for intimate embrace. The smallness and colour reflects the lack of vital life. The lack of hair on the head show us a denial of sensuality. The big black eyes indicate the over­ use of the visual sense causing the other senses to wither in the voyeuristic fascination of vicarious association with the 'living'. The lack of gender shows an anti- sex ual and anti-life proclivity. The 'life' in this vision has been crushed mercilessly by the dominance of the mind in its emotionally dissociated control mania. It is little wonder that this parody of the 'human' form plagues our every moment and abducts us into some extra-terrestrial nightmare where we are inhumanly vivisected. This vivisection is a belated search for our lost vital sensuous life which if ever found could awaken at last to conscious enjoyment as whole body ENLIGHTENMENT.

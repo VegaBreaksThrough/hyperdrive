@@ -1,0 +1,1 @@
+Spin-dizzy? This Energy is about living in the present moment, when everything else keeps moving. A felt all at onceness. 

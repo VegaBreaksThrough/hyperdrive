@@ -1,0 +1,1 @@
+What a wonder this vial is! This energy is inspired by the evolutionary development and intensification of the navel [[The Nine Angelic Realms|chakra]]. To receive, to be sustained, to release.

@@ -1,0 +1,4 @@
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6wHlBZtL6HdCgDTjtKdVu9?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+Enchantment is the experience of being deeply captivated or charmed by something that stirs wonder, awe, or a sense of magic. It often evokes an emotional response, a heightened awareness, or a feeling of being momentarily transported beyond the ordinary into a realm of beauty, mystery, or fascination.
+
+Philosophically and spiritually, enchantment can also represent a state where the world feels alive and imbued with meaning, connecting one to a deeper sense of reality or the sacred. It may arise through art, nature, relationships, or moments of profound insight.

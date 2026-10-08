@@ -1,0 +1,1 @@
+This Energy is useful when we feel restricted in our free flowing movement. Cutting all binding strings from the past and the present.

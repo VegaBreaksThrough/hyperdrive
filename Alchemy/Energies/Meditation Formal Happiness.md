@@ -1,0 +1,3 @@
+
+**HFES**
+The usual approach to meditation is to engage some method of concentration or visualisation in an attempt to attain some subtle change of state. However, real meditation is not a mentally performed act motivated through a search for improvement, self-survival, or becoming something else. Real meditation is simply taking a moment to sit quietly in the present enjoyment of our confession of Happiness and allowing this Communion to consume our entire existence. Real meditation is therefore Communion with the Always Already Presence of the Infinite Current that lives and breathes us.

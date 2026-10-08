@@ -1,0 +1,2 @@
+# The Will Of God
+Conductivity refers to the ability to channel or transmit spiritual energy, often related to practices that open the body and mind to Divine influence. Conducting is the process of allowing this energy to flow through oneself, facilitating healing, transformation, and spiritual awakening.

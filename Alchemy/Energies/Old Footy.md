@@ -1,0 +1,1 @@
+Old boiler heaters can be dangerous and be ripe for an explosion. Since safety valves often go astray, replace and enjoy clear sailing.

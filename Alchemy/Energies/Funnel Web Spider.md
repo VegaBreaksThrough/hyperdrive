@@ -1,0 +1,1 @@
+This spider produces one of the world's most deadly poisons. This energy is the penetration and Alchymeic transmuting of the negative structure that would create such a poison. When penetrating this poison in consciousness, it reflects fear in the body and thus throughout the world - being born into mortal form and having forgotten the Vision of God.

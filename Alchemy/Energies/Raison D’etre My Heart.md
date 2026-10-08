@@ -1,0 +1,1 @@
+The raison d’etre of this gathering, free of any need for justification, is the celebration of love. That is what everyone needs to contemplate ultimately; to live as the Glory of God, allowing this to be His victory in this world and His victory requires us to sacrifice even the breath, which we regard as the essence of life or living.

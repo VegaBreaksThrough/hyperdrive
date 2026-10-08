@@ -1,0 +1,1 @@
+An _Alchymeic_ structure based on a five pointed star with a selected snowflake shape at the points of the star, this was then rotated so many revolutions per second and became the _energy_ known as _Snowflake_ _Daemon_ *Catcher*, because that is what it was seen to do; draw 'daemons' from the surrounding environment to be sucked up into a dark hole, a vortex of no return.

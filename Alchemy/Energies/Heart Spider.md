@@ -1,0 +1,1 @@
+This Energy has been seen to clear a black hole encasing or trapping the heart. Energetically it lifts feelings of oppression from the heart, unwrapping and freeing it from a clenching web. We can breathe again. This Energy also brings with it a 'force field' around the heart so that we may be vulnerable and open-hearted. 

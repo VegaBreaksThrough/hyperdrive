@@ -1,0 +1,1 @@
+The set of programs, structures, and institutions that make up a reality learned and interpreted by individuals and that influences the subjective Consciousness and what we call the point of view. The System configures the cultural sense of existence, the concepts, and possible ways of life through social, political, economic and other relations in a global context. 

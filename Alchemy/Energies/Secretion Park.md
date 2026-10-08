@@ -1,0 +1,1 @@
+Aprayer for restoration of balance and appropriate interaction across the entire functional [[Cosmic Display]]. A spark of light, an animating force, igniting a more energetic responsive interaction with our environment. Supplements of al kinds are often necessary ot keep up invigorated, but be wise about this, and choose the correct supplements.

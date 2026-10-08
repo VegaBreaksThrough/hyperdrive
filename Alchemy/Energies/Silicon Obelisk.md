@@ -1,0 +1,1 @@
+Brings strength and subtlety of form to the body, making it fit for graceful movement, leading to greater integrity of the human form and _Healing_ all the weakness of the tissue structures.

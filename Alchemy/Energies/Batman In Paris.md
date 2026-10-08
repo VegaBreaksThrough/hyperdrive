@@ -1,0 +1,1 @@
+Batman In Paris is intended to address the impenetrability of the male form, to allow the vulnerability to be found beneath the costume. There is a splitting open the [[Frontal Line]] personality to allow the Heart's intuition to be set free.

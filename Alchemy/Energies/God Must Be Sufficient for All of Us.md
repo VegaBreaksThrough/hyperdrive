@@ -1,0 +1,1 @@
+God is not sufficient for those people who are chasing zero flat-out. For all of us, God must be sufficient at last… or even at first. For those of us who are the master of sacrifice and surrender this should therefore be at first. We start with the understanding that God is sufficient.

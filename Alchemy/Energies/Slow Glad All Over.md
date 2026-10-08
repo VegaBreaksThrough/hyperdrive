@@ -1,0 +1,1 @@
+It is a non-reflecting wrap that moves to undo the action of attention, to give the individual an opportunity to see beyond the mere acts of attention. This could lead to greater discipline of attention, the precursor to the magnification of [[Real Intelligence]].

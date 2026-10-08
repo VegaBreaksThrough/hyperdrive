@@ -1,0 +1,1 @@
+The wisdom of “hear no evil, see no evil, speak no evil” reminds us to avoid gossip and voyeurism, preserving peace.

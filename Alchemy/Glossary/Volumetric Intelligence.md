@@ -1,0 +1,4 @@
+---
+aliases:
+  - Synthesis Intelligence
+---

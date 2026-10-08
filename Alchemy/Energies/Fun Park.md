@@ -1,0 +1,1 @@
+This Energy clears the spider possessions and other possessions from being exposed to an amusement park, or when we relate to this world as an 'Amusement Park'. It allows a new relationship to the 'world', helping us to discover that creating forms of enjoyment in 'right relationship' rather than being beguiled and possessed by our surroundings, is what we should be doing. 

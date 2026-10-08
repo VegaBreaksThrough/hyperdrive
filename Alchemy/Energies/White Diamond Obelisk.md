@@ -1,0 +1,1 @@
+_Heals_ all aspects of the bones and their connective tissue.

@@ -1,0 +1,5 @@
+The _Coffee_ _Collectable_ _drink_ is a collection of coffee cup readings belonging to _Jessa_ O' _My_ _Heart;_ This collection comprises some 50 such cups and particularly significant cups have been made into individual waters. These coffee readings have occurred over a particularly transformative period in the 'work' associated with certain transformations in the head, relating to 'awakening' of the 'higher' functions above the brow and ultimately leading to the Regeneration of our Immortal form. The 'awakening' of these 'higher' functions allow, at least, the head to be a bright feeling organ yielded to the Heart and participating therefore in the practice of Real Conductivity of the Life Force. The drinks below are the selected items mentioned above:
+
+  
+
+([[Coming Up For Air]], [[Elephant & The Bright Rider]], [['NEWS FLASH' "Phoenix Eats Woman"]], [[Pool Of Stars]] & [[Slow Glad All Over]])

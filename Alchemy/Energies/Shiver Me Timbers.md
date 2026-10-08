@@ -1,0 +1,1 @@
+Are we feeling a little twisted? How do we keep our basics aligned? - Touch our toes? See abone cruncher? These things may help, yet let's take a moment to consider what is required for our energetic alignment toe to crown? What is happening? Straighten up and Fly right!

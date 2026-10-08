@@ -1,0 +1,1 @@
+The Phoenix Eats Woman is the resurrection of the body. Here Phoenix is a metaphor for the alchymeic process, since it is a reduction of the ordinary destiny to ashes and the resurrection to Real Life out of the ashes i. e. a fiery process. To say this drink is the resurrection of the body is to say consciousness illuminates the form.

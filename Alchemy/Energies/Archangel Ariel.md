@@ -1,0 +1,20 @@
+---
+aliases:
+  - Ariel
+---
+**
+
+His support restores the connection with Mother Earth and the aspects associated with this connection, such as femininity, motherhood, nourishment, Abundance, energy or life force, the relationship with our mother and children.
+
+Keywords: connection with the Earth, Abundance, femininity, life force.
+
+**
+
+---
+
+The name Ariel means “Lion of God” or “Hearth of God.” Some artwork portrays Ariel as having a lion’s head. Archangel Ariel is aligned with the Natural World, with Animals and with Elementals. Ariel is very involved with healing and protecting nature including animals, fish, and birds, especially wild ones. (Words associated with this Archangel are gentle, kind, compassionate and caring.)
+
+The name Ariel means “Lion of God” or “Hearth of God.” Some artwork portrays Ariel as having a lion’s head.  Ariel is very involved with healing and protecting nature including animals, fish, and birds. Archangel Ariel acts as an Angelic liaison for those interested in connecting with the elemental and animal kingdoms. We can call upon Ariel to provide platforms for positive interactions with Nature, Spirits and Animals. This communication happens via the Heart, allowing the head to submit. Ariel invites us to spend time with nature and reminds us that there is much healing energy found in Nature that is restorative and rejuvenating to our body, mind and spirit. As an Angelic ambassador of Divine Manifestation, Ariel is devoted to helping us transcend the illusions of separateness and limitation. Ariel is dedicated to our remembering of the Divine Truth – that we are ONE with the Infinite Divine Universal Source and we are ONE with nature. Therefore, Archangel Ariel helps us to remember that all things are possible and assists us in harnessing our personal power to propel manifestations into miraculous results. Ariel reminds us that when we do what we love, when we do what brings us joy, we will indeed experience a miraculous existence. Like the Lion, Ariel has a protective presence and is aligned with courage, strength and confidence. Ariel naturally expresses the infinite Love of the Divine Source and demonstrates the immeasurable compassion and purity of purpose associated with the angelic realm. Archangel Ariel is devoted to our Divine Remembrance and dedicated to assisting us in realising this.
+
+_“In the vision, the Divine form is seen standing in a benevolent current with arms extended, and with that extended form, there are radiant circles that emanate from it, down to where we are standing. So it is an ‘As Above, So Below’ form that is giving a direct passage to that Divine Realm.  Its form stands with the Blessing current, and is standing in the Heart of Love with the arms extended and the felt tears of the Divine, as the wound of love. In that extended radiance are the circles that are the Blessing current, that touches the hearts of all and can be felt as God communion. This is very much a **devotional current**, in the **remembrance and the awakening to the love of God**._ _The radiance continues as a felt holding, a protection, a blessing, and as a heartbreak, as a wound, as a love, as a remembrance, as an ignition of the right side of the heart, the intuitive gnosis, a reawakening to the **Love-Bliss of Divine communion**. The circles of radiance continue to extend, so that the volume of its current continues to extend.  It is the invocation that is required, the yielding that is required, to invite such a blessing. Humility and heart are given, to be felt and known as the wonder, and the deliciousness of what is real nourishment and what is real alignment and what is real food whilst alive. Everything else seems insignificant.  
+__Nothing else could be this distracting; this is perfect distraction in the Radiance of Only God.”_

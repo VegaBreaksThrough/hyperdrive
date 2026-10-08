@@ -1,0 +1,9 @@
+The Story
+In the Biblical story, Noah’s Ark was given to Noah by God as a way of ensuring the survival of many species of animals in the time of a catastrophic flood. Our Noah’s Ark charm has been created especially to serve all manner of animals, not only for your beloved furry companions...
+
+Its Esoteric Use
+Noah’s Ark charm holds the prayer of intention to protect and support your pet by holding a radiant field of energy around it at all times. It can serve animals well by placing it on their collar or tapping it to the drinking water, so that they can lap up the energy daily. The Noah’s Ark charm has an extended energy field in order to serve the environment of the animal(s). Noah’s Ark intention is about protecting the animal, especially wild animals from the shock of their contact with humans. It can also help strengthen and deepen our relationship with our pets and animals.
+
+---
+
+Noah's Ark as we all know was away given to Noah by God of ensuring the survival of many species of animals in the time of a catastrophic flood. The vial, Noah's Ark is made especially to serve all manner of animals who are suffering some illness or bodily damage, of course since humans are also animals, the Noah 's Ark vial also applies to them, especially if they have a broken wing. The Noah 'sArk vial has an extended energy field in order to serve the environment of the injured animal(s) and this field is about 50 ft. in diameter. Hence the vial can serve the animal(s) well by placing it in the bedding and tapping the drinking water. The Noah 's Ark vial protects the animal, especially wild animals from the shock of their contact with humans.

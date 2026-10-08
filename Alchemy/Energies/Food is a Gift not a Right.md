@@ -1,0 +1,1 @@
+Food is a gift, not a right. Therefore take each mouthful as you appropriately receive a gift, in total receptivity. Further, the gift of food is clearly a sacrifice for the sake of our survival. At last the real food is bringing energy and feeling to one another, not being focused in our own survival.

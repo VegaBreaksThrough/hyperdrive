@@ -1,0 +1,1 @@
+The True relationship to everything is being yielded as the whole body into the total pattern of relations, not appearing as a massive warring of parts , which is the usual position and disposition of disease. *The Nerve Nectar of Infinity* as the surrender of the whole body, is aligning us to the epitome of the whole body, which is the True He**a**rt.

@@ -1,0 +1,5 @@
+_The Magic Mountain_ is a book by Thomas Mann about a sanitarium high in the mountains where tubercular sufferers would go to recuperate or simply fade away. At the time, this disease was considered the “disease of artists,” and it was perhaps even fashionable to contract it as a mark of status among fellow artists. To die in this way was seen as a noble [[sacrifice]] for one’s art. Such a quaint idea would undoubtedly provoke guffaws today.
+
+Until recently, tuberculosis was thought to have almost vanished from concern. However, with the advent of the drug culture, we now witness its return in a much deadlier form. The drink _The Magic Mountain_ confronts this mutant disease glaring at us from the horizon, threatening our doom, right in the proverbial eye and shoots it into oblivion.
+
+_“No more Jell-O for me, Mom!”_

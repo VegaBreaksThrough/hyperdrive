@@ -1,0 +1,4 @@
+---
+aliases:
+  - Madness Of Dissolution
+---

@@ -1,0 +1,3 @@
+High Kingdom is designed with the intention to awaken the higher development of the male potential, and lift men beyond being a mere 'plaything of the goddess'. This may be the ‘ultimate fantasy' for some men, but higher levels of development await beyond these primitive levels of desiring. The development inspired through this Disc may ultimately enable men to serve this awakening to 'higher mind' or a greater consciousness in others. At last men may be able to serve in life as the 'whole body'. Goody! 
+
+If women use this energy they may begin to feel and understand the levels of poverty in their relationship to men, such as lack of receptivity and vulnerability. 

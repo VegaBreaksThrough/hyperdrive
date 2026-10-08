@@ -1,0 +1,1 @@
+This Energy is the Alchymeic Intention of assisting in recovery from anything that has destabilised the functional form. Helping us to recover our true form beyond what we are by tendency, beyond mere association or desire. The true recovery is our connection to Truth.

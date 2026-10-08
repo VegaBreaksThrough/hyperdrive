@@ -1,0 +1,3 @@
+It has been said that; "if we could grow hair on a Billiard Ball we could grow it on anything". A billiard ball is also defined as being a hard ball. It is hard for anything to grow under such solid conditions. This Energy is moving to touch the 'solid' structure deeply, as a reminder to allow the flow of energy once more.
+
+For anything that grows, room to breathe, room to move or 'free-ness' from the clutter, is necessary.

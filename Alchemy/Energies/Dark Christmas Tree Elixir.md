@@ -1,0 +1,1 @@
+A vision is given of Christmas without light. Without the initiatory current there is a ‘doorway’ - falling into negative states of being. The symbol of a Christmas tree without Heart can hold a well of despair. Dark Christmas Tree Elixir closes the door.

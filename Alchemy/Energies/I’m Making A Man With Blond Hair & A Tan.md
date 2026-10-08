@@ -1,0 +1,1 @@
+This Energy releases a subtle spider from top of the head which has been a cap on male consciousness. With this Energy, we see the emergence-of the male in the true form. It can also reveal the twistedness of subhuman sexual play and helps to polarise our form and brightens the head. This Energy clears psychic intrusions. 

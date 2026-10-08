@@ -1,0 +1,3 @@
+White Out is a condition we find ourselves in when all points of recognition vanish. Suddenly all the sign posts are gone. Such a condition is both puzzling and bewildering.
+
+The fragile temporal display of our intimate associations is lost in the White Out of poor remembrance of recent events. To maintain our intimacies we need to be able to recall what is required of us and what we require of others, otherwise we create mutual isolation by our 'blankness' relative to these matters.

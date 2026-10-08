@@ -1,0 +1,3 @@
+A spin-off of the oedipal conflict is the intense development of the ‘economics of scarcity’. The theme song of the hungry ghost is: “What about me, where’s mine?” It is this very meditation of getting enough for the self that depletes the flow of life and makes deserts where once great rivers flowed. The poverty, the dryness of the angular sub-human meditation on self brings an outcome of poison and scarcity, just like the psyche of the wailing hungry oedipal ghost. Abundance is the sign of the human, which is sacrifice beyond self into the infinite. Such a one sees that for the born being there are no rights, only gifts; the blessedness of the Divine.
+
+![[Pasted image 20251221002635.png]]

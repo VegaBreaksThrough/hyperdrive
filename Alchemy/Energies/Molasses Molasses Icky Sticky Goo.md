@@ -1,0 +1,1 @@
+The energy of this Product is felt as a clearing of the heaviness, the stickiness, the weight and toxicity that comes in when our attention gets pulled down into the dross of unconsciousness. Being stuck, unable to move. 

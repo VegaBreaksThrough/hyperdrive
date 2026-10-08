@@ -1,0 +1,5 @@
+---
+aliases:
+  - Miranda Rays
+---
+[[Miranda]] Ray is an energy used to reflect all that is hidden and minded, trying to destroy our growth and interfere in our process of awakening. These destructive forces were seen as alien and shadow forms appearing, as the Divine breaks through to allow the direct passage between Heaven and Earth. There are many psychic dimensions, much higher than the ordinary subtle, where alien wars are taking place – layers within the Cosmic Mandala that prevent attention from rising. Miranda Ray is the energetics and gift of allowing a greater passage through the subtle dimensions, above and beyond the level of contracted mind, allowing us free passage of attention to begin to lift now, free of the intrusion of that which would only desire to prevent such a matter from occurring.

@@ -1,0 +1,1 @@
+This Energy is about allowing the radiance of the being to arise from below the 'surface'. Surfacing interacts with the often harsh reality of skin meets the "World Godzilla". Allowing aspects of contemplation to rise to the surface, bringing conscious penetration. This is when levels of superficiality are seen and purified. Touching all surfaces, both 'internal' and 'external'.

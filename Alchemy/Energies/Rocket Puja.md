@@ -1,0 +1,3 @@
+This Vial is seen psychically to bring a transformative current through the energetic body, entering through the crown and terminating at the base chakra. As the light descends it moves to purify negative aspects, fixations below the navel, then exploding sending waves of light as reverberations back up through the form to further purify and energise.
+
+Negative aspects ni the form of animals are psychically seen being brought up from the base chakra and released through a sunflower sitting on top of the head. This is repeated several times until nothing more is released. The sunflower then brightens its glow around the dome of the head. At this point all things to the left and right simply fall away since there is nothing left to hang onto.

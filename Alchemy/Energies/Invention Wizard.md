@@ -1,0 +1,1 @@
+It's that blinding moment of brilliance, that incredible idea that comes, when you are just standing in the shower...! True inspiration is simply 'given', beyond all the coping and stress of the usual point-of-view of mind. Mindless embodiment is when everything simply arises.

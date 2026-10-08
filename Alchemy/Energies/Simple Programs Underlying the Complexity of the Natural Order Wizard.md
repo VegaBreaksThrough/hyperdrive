@@ -1,0 +1,1 @@
+Simple programs are better in describing the structure of nature than mathematical programs, hence this Energy is again penetrating and allowing the structure of nature to be witnessed, understood and thus passed through. This Energy is in relation to the ascending process. Another energy in relation to the ascending process found  within the *Fourth Pack.*

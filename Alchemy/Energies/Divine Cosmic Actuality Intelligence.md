@@ -1,0 +1,1 @@
+In the vision - felt the instant expanse of the brain mind, clouds of nebula appeared, words appearing and disappearing without lower recognition. There was an understanding that [[Real Intelligence]] and real knowing was being activated.  

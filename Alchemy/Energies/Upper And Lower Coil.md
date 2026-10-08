@@ -1,0 +1,1 @@
+This Vial is used to assist in allowing the female to understand the male point of view and vice versa. This energy is essential in allowing the fully polarised being to develop. Useful where there is withholding and disturbance between couples, helping to bring about harmony, and thereby intimate interaction.

@@ -1,0 +1,1 @@
+This Energy, Black Widow Spider Elixir Energy, addresses a level of negative energetic that often comes to debilitate us and stop us growing, binding us to old fear patterns. The Black Widow Spider completely devours the male form once it has used it for it's own purposes. This Energy begins to liberate us from such a psychic binding effect within our own relationships. 

@@ -1,0 +1,1 @@
+“They shoot horses don’t they?” A fitting ‘just dessert’ for the irretrievably, abject, hopelessly contracted individual where this destiny of horses is applicable. Yet the most Gracious God gives the _[[The Hermetic Touch is About Remembrance|hermetic touch]]_ even for this bunch of ‘sad sacks’ rather than Biblical justice.

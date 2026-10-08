@@ -1,0 +1,5 @@
+Slow Forcefield is another very powerful energy for psychic clearing and giving us space. It consists of two other Alchyemic Energies brought together to form one:
+
+Slow glass – Re-organising the temporal aspects of the life form to a more creative tolerance is the inspiration for this Energy. Aligning us to the present moment of existence. Useful for people who panic about lack of time by ‘shattering’ people’s relationship to time, thereby perhaps allowing us to discover more time to do things. When used with another Alchymeic Energy, Slow Glass is Alchymeically intended to energetically ‘slow things down’ thereby creating more psychic space, enabling us to see and allow the gift of the relevant Alchymeic Energy.
+
+Forcefield – is about an Energy that creates space from the negative attention and psychically destructive intrusions of the world. In these times of over-intrusiveness this Energy is very useful to engage. The power source of the Force Field comes from Blue Galaxies. Use this Energy to ‘light up’ your life.

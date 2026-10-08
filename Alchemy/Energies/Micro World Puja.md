@@ -1,0 +1,3 @@
+This Energy is a contemplation of the micro world, everything at the molecular level right up to the beginning of the macro world.
+
+This Vial demonstrates that our micro 'selves' have activities that reflect the 'outer world' in all its myriad aspects. Even the social chaos of the 'outer world' is reflected within the micro structure of the body. The Alchymeic reminder here is to realign our Micro World ,this "inner world" to the Heart, thereby dissolving all chaos.

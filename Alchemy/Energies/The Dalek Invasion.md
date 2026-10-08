@@ -1,0 +1,6 @@
+---
+aliases:
+  - Dalek Invasion
+  - Dalek
+---
+The Dalek epitomises the individual totally possessed of the scientific model of existence and its mostly evil offspring, scientific technology. The Dalek’s catch cry is “obliterate, exterminate and annihilate”, the song scientists sing in their showers in the morning. To illustrate this, a one-time panel of serious-minded scientists seen on television were heard suggesting that the earth should be scrubbed back to bare rock and we should all live in satellites and look down on it, because all that nature is too icky-sticky. The scientific model informs the political puppets who come forth, therefore, with Dalek legislation. Both the scientific and the political and, therefore, the economic, stand over and against spiritual development, like terrorists dressed in plastic explosives. The political, the scientific and economic persuasions witch-hunt the possibility of spiritual development just as the Church in the middle ages tyrannised intellectual development. Our true involvement with this world, beyond the persuasions of scientific terrorism, is awakening to the confession of Only God. So long, Doctor Who.

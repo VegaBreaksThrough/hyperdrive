@@ -1,0 +1,3 @@
+**HFES**
+
+Yoga is a way of reconnecting us with the Divine current via the breath and asanas (yoga postures). The yogic poses when done properly can release tension from the muscles to the bones as energy. Traditional yoga is designed to restore and increase the life-force energy of the gross vital form, enlivening, regenerating and quickening our journey toward the goal of enlightenment. This Yoga Wand energy aligns us to the true spirit of yoga, whatever kind of yoga we choose to engage.

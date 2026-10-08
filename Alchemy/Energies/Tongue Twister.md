@@ -1,0 +1,1 @@
+An Energy inspired by free speech. (use with Voice Master Disc). The twisting energetic block is often a karmic hindrance to our communication, may it be liberated.
