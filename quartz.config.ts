@@ -8,7 +8,7 @@ const config: QuartzConfig = {
     enableSPA: true,
     enablePopovers: true,
     analytics: null,
-    locale: "fr-CA",
+    locale: "en-US",
     baseUrl: "vegabreaksthrough.github.io/hyperdrive",
     ignorePatterns: ["private", "templates", ".obsidian", ".trash"],
     defaultDateType: "modified",
@@ -71,6 +71,8 @@ const config: QuartzConfig = {
       Plugin.AliasRedirects(),
       Plugin.ComponentResources(),
       Plugin.ContentPage(),
+      Plugin.FolderPage(),
+      Plugin.TagPage(),
       Plugin.ContentIndex({
         enableSiteMap: true,
         enableRSS: true,
@@ -78,6 +80,7 @@ const config: QuartzConfig = {
       Plugin.Assets(),
       Plugin.Static(),
       Plugin.Favicon(),
+      Plugin.NotFoundPage(),
     ],
   },
 }
