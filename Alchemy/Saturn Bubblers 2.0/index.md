@@ -1,51 +1,26 @@
 ---
-tags: 
+title: Saturn Bubblers (Bubbler Saturno)
 aliases:
   - Bubbler Saturne
-  - Saturn Bubbler
-  - Bubbleur Saturne
+  - Saturn Bubblers
 ---
-Arranging A0463
-Bubbler Saturno
+# Saturn Bubblers (Bubbler Saturno)
 
-The 'mind' is the source of all levels of pollution or disturbance of all the 'belds' that are essential to a wholesome existence within this earthly vision. So what is it about the 'mind' that has created such disarray? The 'mind' is an activity not asomething and clearly this activity is somehow at odds with all our living processes since there is very little to no activity of 'human beings' that is not at some level negative to the natural order of events. We fail to recognise that all our actions are essentially negative and so we pile error upon error as we seek solutions to earlier failed solutions that pose certain 'difficulties' in themselves. From the point of view of the 'mind' we do not see any aspect of the 'world' the way that it is but instead we are simply playing with conventions of world views that are purely arbitrary and not Real involvements with this vision.  The 'world' of 'mind' springs out of a position of being separate as the uninvolved 'viewer' i.e. the 'viewer' does not 'see himself as part of what is being 'viewed' and thus the 'viewer' is dissociated from the 'viewed' and therefore cannot ever 'know' the 'world' as it is. This dissociated view generates a false relationship to all that is and false responses to all that is. These false responses account for all the vast breakdown in all the 'natural flow' of the 'living process'. With this breakdown it is clear that all levels of 'health' also crumble into a ruinous condition. The so-called 'internal' structure of living forms harbour mounting levels of chaos that eventually see their total collapse into decay and death. Primary levels of this grave disturbance appear within the air, water, soil and the Earth's magnetic field in the form of chemical poisons, electrical and nuclear radiation which in terms of ordinary conventional responses represent an insurmountable 'problem'.
-
-The 'true' view sees ourselves as part of the flow of natural activity and in this disposition our movement is at one with all other engagements, we simply move on the basis of obviousness. The Saturn Bubbler, although it is not 'natural' stems from the 'true' structure of this 'place' and is a vast energy configuration made of rotating spheres of energy that revolve around each other in an unfathomable multi-dimensional array that interacts with the world environment to dissolve the architecture of pollution. The Saturn Bubbler can be set by prior arrangement to function across a considerable territory. The original impetus for the creation of the Saturn Bubbler was to negate electrical poisoning of the soil and this is clearly addressed as part of its structure. The Saturn Bubbler becomes the source of the intrinsic health of the living World. Listen! It is that ancient pristine bubbling brook.
+> 🌐 **Interactive Google Earth Map** :  
+> [Bubblers Saturne World Map (Google Earth KML)](https://drive.google.com/file/d/1RJ1Mx6zF31h2YU0l_KLdI7TBU-n6e97D/view)
 
 ---
 
-Saturn Bubbler 2.0
-
-Karlos() in the Saturn Bubbler  
-  
-The Saturn Bubbler was updated to include the Karlos() Function as a non-visible Energy in the M12 sphere, where the Owner's Teachers and Family are.  
-  
-This change updates every Bubbler, to support the transformative purpose these artifacts carry. Karlos() fosters a more harmonious experience and a deeper understanding of the personal processes tied to the karmic condition.
-
----
-
-# Inventaire Mondial des Bubblers Saturne Installés
-
-Chaque artéfact physique possède sa fiche descriptive individuelle avec sa configuration d'énergies P dans [[Alchemy/Saturn Bubblers 2.0/|le dossier des Bubblers Saturne]].
-
-> 🌐 **Cartographie Interactive Google Earth** :  
-> Un projet complet avec repère géographique (pin) pour chacun des 67 artéfacts est disponible.  
-> - Fichier local KML : [[x-Attachments/Bubblers_Saturne_World_Map.kml]]  
-> - Fichier Drive : [Bubblers Saturne World Map (Google Earth KML)](https://drive.google.com/file/d/1RJ1Mx6zF31h2YU0l_KLdI7TBU-n6e97D/view)  
-> *(Pour ouvrir sur le globe 3D : ouvrir [earth.google.com](https://earth.google.com) > Projets > Nouveau projet > Importer un fichier KML depuis l'ordinateur ou Drive).*
-
----
-
-## 1. Bubbler Saturno Grande País (2 artéfacts)
-| Code | Propietario / Owner | Energía P | Ubicación / Location | Fiche Dédiée |
+## 1. Bubbler Saturno Grande País (Country)
+| Code | Owner / Propietario | P Energy | Location / Ubicación | Note |
 | :--- | :--- | :--- | :--- | :--- |
 | **BSGP001** | Diego Bodart | [[P0634]] | Bella Vista, Ciudad de Panamá, Panamá | [[BSGP001 - Diego Bodart]] |
 | **BSGP002** | Carolina Barrios | [[P0530]] | Poti'y, Encarnación, Paraguay | [[BSGP002 - Carolina Barrios]] |
 
 ---
 
-## 2. Bubbler Saturno Grande (8 artéfacts)
-| Code | Propietario / Owner | Energía P | Ubicación / Location | Fiche Dédiée |
+## 2. Bubbler Saturno Grande (Large Personal)
+| Code | Owner / Propietario | P Energy | Location / Ubicación | Note |
 | :--- | :--- | :--- | :--- | :--- |
 | **BSG001** | Arturo Banchs | [[P0003]] | Salón De Saturno UA, Caracas, Venezuela | [[BSG001 - Arturo Banchs]] |
 | **BSG002** | Arturo Banchs | [[P0003]] | Atenor UA, Caracas, Venezuela | [[BSG002 - Arturo Banchs]] |
@@ -58,8 +33,8 @@ Chaque artéfact physique possède sa fiche descriptive individuelle avec sa con
 
 ---
 
-## 3. Bubbler Saturno Pequeño (57 artéfacts)
-| Code | Propietario / Owner | Energía P | Ubicación / Location | Fiche Dédiée |
+## 3. Bubbler Saturno Pequeño (Small Personal)
+| Code | Owner / Propietario | P Energy | Location / Ubicación | Note |
 | :--- | :--- | :--- | :--- | :--- |
 | **BS000** | Arturo Banchs | [[P0020]] | Viajero prototipo, Caracas, Venezuela | [[BS000 - Arturo Banchs]] |
 | **BS001** | Lila Gil | [[P0020]] | Los Palos Grandes, Caracas, Venezuela | [[BS001 - Lila Gil]] |
