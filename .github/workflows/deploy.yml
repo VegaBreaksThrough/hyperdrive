@@ -19,47 +19,46 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
+      - name: Checkout Notes
         uses: actions/checkout@v4
         with:
+          path: notes
           fetch-depth: 0
+
+      - name: Checkout Quartz Engine
+        uses: actions/checkout@v4
+        with:
+          repository: jackyzha0/quartz
+          ref: v4
+          path: quartz
 
       - name: Setup Node
         uses: actions/setup-node@v4
         with:
           node-version: 22
 
-      - name: Build Quartz
+      - name: Build Quartz Site
         run: |
-          git clone --depth 1 -b v4 https://github.com/jackyzha0/quartz.git quartz-builder
-          cd quartz-builder
+          cd quartz
           npm ci
           
-          # Replace configs if present
-          [ -f ../quartz.config.ts ] && cp ../quartz.config.ts quartz.config.ts
-          [ -f ../quartz.layout.ts ] && cp ../quartz.layout.ts quartz.layout.ts
-          [ -f ../custom.scss ] && cp ../custom.scss quartz/styles/custom.scss
+          # Inject custom Quartz configuration
+          [ -f ../notes/quartz.config.ts ] && cp ../notes/quartz.config.ts quartz.config.ts
+          [ -f ../notes/quartz.layout.ts ] && cp ../notes/quartz.layout.ts quartz.layout.ts
+          [ -f ../notes/custom.scss ] && cp ../notes/custom.scss quartz/styles/custom.scss
           
-          # Copy notes into content/
+          # Clean and populate content
           rm -rf content/*
-          rsync -av --exclude 'quartz-builder' --exclude '.git' --exclude '.github' --exclude 'quartz.config.ts' --exclude 'quartz.layout.ts' --exclude 'custom.scss' ../ content/
+          cp -r ../notes/* content/
+          rm -rf content/quartz content/notes content/.git content/.github content/quartz.config.ts content/quartz.layout.ts content/custom.scss
           
-          # Ensure index.md exists
-          if [ ! -f content/index.md ] && [ -f content/Welcome.md ]; then
-            cp content/Welcome.md content/index.md
-          fi
-          
-          # Build Quartz
-          npx quartz build --serve false
-          
-          mv public ../public
-          cd ..
-          rm -rf quartz-builder
+          # Build with expanded memory for large vault
+          NODE_OPTIONS="--max-old-space-size=8192" npx quartz build
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: public
+          path: quartz/public
 
   deploy:
     environment:
